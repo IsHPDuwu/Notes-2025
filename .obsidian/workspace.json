@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "9ab41c3380f6f6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a87676ed9dd3a78",
+        "type": "tabs",
+        "dimension": 61.965811965811966,
+        "children": [
+          {
+            "id": "f5d6850cc3d3cec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "6a9da12f1016c019",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡"
+            },
+            "group": "e77ca51a63083fc5"
+          },
+          {
+            "id": "25c594c475c1a88d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
+                "viewState": {
+                  "x": -57.5,
+                  "y": 257,
+                  "zoom": -0.01480053223022847
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "dd1674b45e275031",
+        "type": "tabs",
+        "dimension": 38.034188034188034,
+        "children": [
+          {
+            "id": "7557b6bb4ebc5c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡"
+            },
+            "group": "e77ca51a63083fc5"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3178430a610e82c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7167f56cf090e9c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c80e6f268a485c93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "de6041147ac3ba1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "37294c034a9e28c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.51103591918945
+  },
+  "right": {
+    "id": "22bd4a0d59d5fcc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2404cbca31923cd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf033cc952c8834",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订 的反向链接列表"
+            }
+          },
+          {
+            "id": "3827ee4ed3b4683f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订 的出链列表"
+            }
+          },
+          {
+            "id": "c178c870d3082c07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c4b2a7fd29882a54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订.md"
+              },
+              "icon": "lucide-list",
+              "title": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订 的大纲"
+            }
+          },
+          {
+            "id": "8d0df8b6799213cf",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "3d5b5d6a806ed113",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "e504b5871ee61938",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "print:Print note": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "timelines-revamped:Insert Timeline Event": false,
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+    }
+  },
+  "active": "7557b6bb4ebc5c4c",
+  "lastOpenFiles": [
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
+    "Eng-单词.md",
+    "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
+    "未命名.md",
+    "HIS/07-02",
+    "未命名 1",
+    "Temp.md",
+    "attachment/Pasted image 20250101113743.png",
+    "HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.pdf",
+    "Welcome.md",
+    "Temp.pdf",
+    "HIS/08-01/HIS-08-01-重点问题默写.md",
+    "1.md",
+    "attachment/Pasted image 20250109130630.png",
+    "HIS/HIS-12-05-2024.md",
+    "HIS/HIS-考点.md",
+    "未命名 6.md",
+    "未命名 5.md",
+    "未命名 4.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "HIS/08-02/HIS-08-02-重点重点重点默写.md",
+    "HIS/08-02/HIS-08-02-canvas.canvas",
+    "HIS/08-02/HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.md",
+    "HIS/08-02/未命名.md",
+    "HIS/08-01/HIS-08-01-U7 人民解放战争 - L24 人民解放战争的胜利.md",
+    "CHS/课下注释/过零丁洋.md",
+    "HIS/08-02",
+    "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L21 冷战后的世界格局.pdf",
+    "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L21 冷战后的世界格局.md",
+    "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L20 联合国与世界贸易组织.pdf",
+    "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L20 联合国与世界贸易组织.md",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.pdf",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.pdf",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.md",
+    "HIS/09-02/HIS-09-02-L18 社会主义的发展和挫折.pdf",
+    "HIS/09-02/HIS-09-02-重点问题默写.md",
+    "attachment/Pasted image 20250108061927.png",
+    "attachment/Pasted image 20250107061210.png",
+    "attachment/Pasted image 20250107061112.webp",
+    "attachment/Pasted image 20250107061018.webp",
+    "attachment/Pasted image 20250107061006.webp",
+    "attachment/Pasted image 20250107060602.png",
+    "attachment/Pasted image 20250107060559.png",
+    "attachment/Pasted image 20250107060525.png"
+  ]
+}

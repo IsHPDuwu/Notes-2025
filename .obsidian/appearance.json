@@ -1,0 +1,11 @@
+{
+  "baseFontSizeAction": true,
+  "baseFontSize": 14,
+  "theme": "system",
+  "enabledCssSnippets": [
+    "timelines"
+  ],
+  "monospaceFontFamily": "Maple Mono",
+  "textFontFamily": "Maple Mono",
+  "interfaceFontFamily": ""
+}

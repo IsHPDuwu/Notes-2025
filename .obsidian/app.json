@@ -1,0 +1,17 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "showLineNumber": true,
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachment",
+  "readableLineLength": true
+}

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"f9454feba327eaa4","type":"text","text":"海河","x":115,"y":-96,"width":105,"height":60,"color":"1"},
+		{"id":"c1daad8b6c2b8e15","x":115,"y":80,"width":105,"height":60,"color":"1","type":"text","text":"黄河"},
+		{"id":"2ad87b3e395550c7","x":115,"y":300,"width":105,"height":60,"color":"1","type":"text","text":"淮河"},
+		{"id":"1c5090e7c1129c9a","x":115,"y":460,"width":105,"height":60,"color":"1","type":"text","text":"长江"},
+		{"id":"b016dde643ad934f","type":"text","text":"涿郡","x":-335,"y":-126,"width":100,"height":60,"color":"4"},
+		{"id":"cbb9a1e8444be7b2","type":"text","text":"洛阳","x":-335,"y":80,"width":100,"height":60,"color":"4"},
+		{"id":"9b01ede207ec94f8","x":-335,"y":580,"width":100,"height":60,"color":"4","type":"text","text":"余杭"}
+	],
+	"edges":[
+		{"id":"6fd1a09f52696fd3","fromNode":"b016dde643ad934f","fromSide":"right","toNode":"f9454feba327eaa4","toSide":"left"},
+		{"id":"a99dbd0d1cf49270","fromNode":"b016dde643ad934f","fromSide":"bottom","toNode":"cbb9a1e8444be7b2","toSide":"top","label":"永济渠"},
+		{"id":"72d2aed45e73f732","fromNode":"cbb9a1e8444be7b2","fromSide":"right","toNode":"c1daad8b6c2b8e15","toSide":"left"},
+		{"id":"d8df21cbd2ff7e1d","fromNode":"cbb9a1e8444be7b2","fromSide":"bottom","toNode":"2ad87b3e395550c7","toSide":"top","label":"通济渠"},
+		{"id":"66807b0d28b44e8b","fromNode":"2ad87b3e395550c7","fromSide":"bottom","toNode":"1c5090e7c1129c9a","toSide":"top","label":"邗沟"},
+		{"id":"967ec71834906fb6","fromNode":"1c5090e7c1129c9a","fromSide":"bottom","toNode":"9b01ede207ec94f8","toSide":"top","label":"江南河"}
+	]
+}
