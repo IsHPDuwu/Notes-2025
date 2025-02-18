@@ -4,80 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8a87676ed9dd3a78",
+        "id": "89f34b1b6ccd249b",
         "type": "tabs",
-        "dimension": 61.965811965811966,
         "children": [
           {
-            "id": "f5d6850cc3d3cec2",
+            "id": "98e13231e3c7219f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "HIS-朝代概况.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "HIS-朝代概况"
             }
-          },
-          {
-            "id": "6a9da12f1016c019",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡"
-            },
-            "group": "e77ca51a63083fc5"
-          },
-          {
-            "id": "25c594c475c1a88d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
-                "viewState": {
-                  "x": -57.5,
-                  "y": 257,
-                  "zoom": -0.01480053223022847
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "dd1674b45e275031",
-        "type": "tabs",
-        "dimension": 38.034188034188034,
-        "children": [
-          {
-            "id": "7557b6bb4ebc5c4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡"
-            },
-            "group": "e77ca51a63083fc5"
           }
         ]
       }
@@ -136,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.51103591918945
+    "width": 200
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -257,11 +199,16 @@
       "timelines-revamped:Insert Timeline Event (Frontmatter)": false
     }
   },
-  "active": "7557b6bb4ebc5c4c",
+  "active": "98e13231e3c7219f",
   "lastOpenFiles": [
-    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
-    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
     "Eng-单词.md",
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L2 从“贞观之治”到“开元盛世”.md",
+    "HIS-朝代概况.md",
+    "HIS/08-01/HIS-08-01-U7 人民解放战争 - L24 人民解放战争的胜利.md",
+    "HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
+    "Welcome.md",
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
     "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
     "未命名.md",
     "HIS/07-02",
@@ -269,7 +216,6 @@
     "Temp.md",
     "attachment/Pasted image 20250101113743.png",
     "HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.pdf",
-    "Welcome.md",
     "Temp.pdf",
     "HIS/08-01/HIS-08-01-重点问题默写.md",
     "1.md",
@@ -280,12 +226,10 @@
     "未命名 5.md",
     "未命名 4.md",
     "未命名 2.md",
-    "未命名 1.md",
     "HIS/08-02/HIS-08-02-重点重点重点默写.md",
     "HIS/08-02/HIS-08-02-canvas.canvas",
     "HIS/08-02/HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.md",
     "HIS/08-02/未命名.md",
-    "HIS/08-01/HIS-08-01-U7 人民解放战争 - L24 人民解放战争的胜利.md",
     "CHS/课下注释/过零丁洋.md",
     "HIS/08-02",
     "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L21 冷战后的世界格局.pdf",
@@ -296,8 +240,6 @@
     "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
     "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.pdf",
     "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.md",
-    "HIS/09-02/HIS-09-02-L18 社会主义的发展和挫折.pdf",
-    "HIS/09-02/HIS-09-02-重点问题默写.md",
     "attachment/Pasted image 20250108061927.png",
     "attachment/Pasted image 20250107061210.png",
     "attachment/Pasted image 20250107061112.webp",
