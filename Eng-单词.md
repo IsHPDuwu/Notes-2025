@@ -41,6 +41,28 @@ n.日常饮食；日常食物 :: *diet*
 
 有影响，有作用 (*difference*) :: *make a difference to sth.*
 
+# Day 20
+
+adj.数码的，数字的 :: *digital*
+
+一个数码相机 (*digital*) :: *a digital camera*
+
+n.用餐 :: *dining*
+
+n.灾难 :: *disaster*
+
+n.鹰 :: *eagle*
+
+早起的鸟儿有虫吃。(*early*) :: *The early bird catches the worm*
+
+根本；究竟 (*earth*) :: *on earth*
+
+adj.电子的；电子设备的 :: *electronic*
+
+n.突发事件；紧急状态 :: *emergency*
+
+n.皇帝 :: *emperor*
+
 # Day 21
 
 adv.确切地；精确地 :: *exactly*
@@ -110,4 +132,94 @@ n.烤箱 :: *oven*
 n.小包装纸袋 :: *packet*
 
 n.烙饼；薄饼 :: *pancake*
+
+# Day 26
+
+持续很长时间 (*period*) :: *last for a long period of time*
+
+n.胡椒粉；柿子椒 :: *pepeer*
+
+n.企鹅 :: *pengain*
+
+n.药丸，药片 :: *pill*
+
+n.猪肉 :: *pork*
+
+n.粥；面糊 :: *porridge*
+
+n.王子 :: *prince*
+
+n.公主 :: *princess*
+
+# Day 27
+
+n.绳索 :: *rope*
+
+n.玫瑰 :: *rose*
+
+俗话说…… (*say*) :: *as the saying goes*
+
+n.围巾；披巾；头巾 :: *scarf*
+
+n.(pl.)剪刀 :: *scissors*
+
+入座 (*seat*) :: *have a seat*
+
+承担责任 (shoulder) :: *on one's shoulders*
+
+adj.单一的；单个的 :: *single*
+
+adj.苗条的，纤细的；单薄的 :: *slim*
+
+n.社会主义 :: *socialism*
+
+n.土；土壤 :: *soil*
+
+n.战士，士兵 :: *soldier*
+
+# Day 28
+
+adj.疼痛的；酸痛的 :: *sore*
+
+n.勺；调羹 :: *spoon*
+
+保持静止；静止不动 (*still*) :: *keep still*
+
+n.桌子；表格 :: *table*
+
+摆放餐桌 (*table*) :: *lay the table*
+
+n.龙头；阀门 v.轻拍；轻敲 :: *tap*
+
+n.帐篷 :: *tent*
+
+prep.&conj.(用以引出比较的第二部分)比 :: *than*
+
+adv.那么；那时；然后 :: *then*
+
+n.咽喉；喉咙 :: *throat*
+
+# Day 29
+
+n.雷（声） :: *thunder*
+
+n.卡车；货车 :: *truck*
+
+宇宙中 (*universe*) :: *in the universe*
+
+prep. 在……上；到……上 :: *upon*
+
+n.病毒 :: *virus*
+
+adj.自愿的；志愿的 :: *voluntary*
+
+# Day 30
+
+妨碍；挡道 (*way*) :: *in the way*
+
+conj.不管……(还是)；或者……(或者)；是否 :: *whether*
+
+n.酸奶 :: *yogurt*
+
+n.青年，年轻人 :: *youth*
 
