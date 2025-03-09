@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/中国古代史背默.md",
+                "file": "文言文实词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国古代史背默"
+              "title": "文言文实词"
             },
             "group": "6b307fed536a3ce1"
           },
@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/中国古代史背默.md",
+                "file": "文言文实词.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国古代史背默"
+              "title": "文言文实词"
             },
             "group": "6b307fed536a3ce1"
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HIS/中国古代史背默.md",
+                "file": "文言文实词.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "中国古代史背默 的反向链接列表"
+              "title": "文言文实词 的反向链接列表"
             }
           },
           {
@@ -246,13 +246,14 @@
       "print:Print note": false,
       "obsidian-spaced-repetition:复习卡片": false,
       "timelines-revamped:Insert Timeline Event": false,
-      "timelines-revamped:Insert Timeline Event (Frontmatter)": false
+      "timelines-revamped:Insert Timeline Event (Frontmatter)": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a49b816bb3a332e3",
+  "active": "06df77c570606688",
   "lastOpenFiles": [
-    "未命名 1.md",
     "HIS/中国古代史背默.md",
+    "未命名 1.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L2 从“贞观之治”到“开元盛世”.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
