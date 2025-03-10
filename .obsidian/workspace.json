@@ -25,14 +25,17 @@
             "id": "06df77c570606688",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文言文实词.md",
-                "mode": "source",
-                "source": false
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
+                "viewState": {
+                  "x": -57.5,
+                  "y": 681.5735277569023,
+                  "zoom": -0.01480053223022847
+                }
               },
-              "icon": "lucide-file",
-              "title": "文言文实词"
+              "icon": "lucide-layout-dashboard",
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河"
             },
             "group": "6b307fed536a3ce1"
           },
@@ -61,14 +64,17 @@
             "id": "a49b816bb3a332e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文言文实词.md",
-                "mode": "preview",
-                "source": false
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
+                "viewState": {
+                  "x": -57.5,
+                  "y": 257,
+                  "zoom": -0.01480053223022847
+                }
               },
-              "icon": "lucide-file",
-              "title": "文言文实词"
+              "icon": "lucide-layout-dashboard",
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河"
             },
             "group": "6b307fed536a3ce1"
           }
@@ -145,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文言文实词.md",
+                "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +161,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "文言文实词 的反向链接列表"
+              "title": "HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河 的反向链接列表"
             }
           },
           {
@@ -250,8 +256,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06df77c570606688",
+  "active": "a49b816bb3a332e3",
   "lastOpenFiles": [
+    "HIS/08-01/HIS-08-01-重点问题默写.md",
+    "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
+    "HIS-朝代概况.md",
+    "文言文实词.md",
     "HIS/中国古代史背默.md",
     "未命名 1.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L2 从“贞观之治”到“开元盛世”.md",
@@ -262,21 +272,17 @@
     "CHS/K/K-12-01-2024.md",
     "CHS/K/K-11-24-2024.md",
     "Eng-单词.md",
-    "文言文实词.md",
     "1.md",
     "2.md",
     "未命名.md",
-    "HIS-朝代概况.md",
     "HIS/08-01/HIS-08-01-U7 人民解放战争 - L24 人民解放战争的胜利.md",
     "HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
     "Welcome.md",
-    "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
     "HIS/07-02",
     "未命名 1",
     "Temp.md",
     "HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.pdf",
     "Temp.pdf",
-    "HIS/08-01/HIS-08-01-重点问题默写.md",
     "attachment/Pasted image 20250109130630.png",
     "HIS/HIS-12-05-2024.md",
     "HIS/HIS-考点.md",
