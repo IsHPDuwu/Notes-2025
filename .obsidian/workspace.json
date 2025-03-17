@@ -30,7 +30,7 @@
                 "file": "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
                 "viewState": {
                   "x": -57.5,
-                  "y": 681.5735277569023,
+                  "y": 257,
                   "zoom": -0.01480053223022847
                 }
               },
@@ -233,7 +233,8 @@
               "title": "笔记复习序列"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -256,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a49b816bb3a332e3",
+  "active": "3d5b5d6a806ed113",
   "lastOpenFiles": [
     "HIS/08-01/HIS-08-01-重点问题默写.md",
     "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
