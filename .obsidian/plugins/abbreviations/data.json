@@ -3,38 +3,44 @@
     "zz": {
       "value": "<政>",
       "isEnabled": true,
-      "position": 6,
+      "position": 7,
       "isCaseSensitive": true
     },
     "jj": {
       "value": "<经>",
       "isEnabled": true,
-      "position": 5
+      "position": 6
     },
     "ww": {
       "value": "<文>",
       "isEnabled": true,
-      "position": 4
+      "position": 5
     },
     "mm": {
       "value": "<民>",
       "isEnabled": true,
-      "position": 2
+      "position": 3
     },
     "aa": {
       "value": "<军>",
       "isEnabled": true,
-      "position": 3
+      "position": 4
     },
     "ss": {
       "value": "<思>",
       "isEnabled": true,
-      "position": 0
+      "position": 1
     },
     "<": {
       "value": "<>",
       "isEnabled": true,
-      "position": 1
+      "position": 2
+    },
+    "|": {
+      "value": "\\",
+      "isEnabled": true,
+      "position": 0,
+      "isCaseSensitive": true
     }
   }
 }
