@@ -13,5 +13,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachment",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "current"
 }
