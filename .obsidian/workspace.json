@@ -19,7 +19,8 @@
               },
               "icon": "lucide-file",
               "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源"
-            }
+            },
+            "group": "89078899b38d07c8"
           }
         ]
       },
@@ -39,7 +40,8 @@
               },
               "icon": "lucide-file",
               "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源"
-            }
+            },
+            "group": "89078899b38d07c8"
           }
         ]
       }
@@ -233,6 +235,8 @@
   },
   "active": "25f8c96f20e6476b",
   "lastOpenFiles": [
+    "attachment/Pasted image 20250330231841.png",
+    "attachment/Pasted image 20250330231832.png",
     "attachment/Pasted image 20250330231200.png",
     "attachment/Pasted image 20250330231128.png",
     "attachment/Pasted image 20250330231125.png",
@@ -278,8 +282,6 @@
     "attachment/Pasted image 20250108061927.png",
     "attachment/Pasted image 20250107061210.png",
     "attachment/Pasted image 20250107061112.webp",
-    "attachment/Pasted image 20250107061018.webp",
-    "attachment/Pasted image 20250107061006.webp",
-    "attachment/Pasted image 20250107060602.png"
+    "attachment/Pasted image 20250107061018.webp"
   ]
 }
