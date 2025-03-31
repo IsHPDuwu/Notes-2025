@@ -19,8 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期"
-            },
-            "group": "89078899b38d07c8"
+            }
           },
           {
             "id": "e629fe26b5ec0178",
@@ -34,7 +33,8 @@
               },
               "icon": "lucide-file",
               "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替"
-            }
+            },
+            "group": "ab3f58554463969a"
           }
         ],
         "currentTab": 1
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
+                "file": "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期"
+              "title": "HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替"
             },
-            "group": "89078899b38d07c8"
+            "group": "ab3f58554463969a"
           }
         ]
       }
