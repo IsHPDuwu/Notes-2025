@@ -199,8 +199,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
             }
           },
           {
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -258,7 +258,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4986292c2051c0f9",
+  "active": "3d5b5d6a806ed113",
   "lastOpenFiles": [
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替.md",
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
