@@ -1,11 +1,13 @@
 {
   "baseFontSizeAction": true,
   "baseFontSize": 14,
-  "theme": "system",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "timelines"
   ],
   "monospaceFontFamily": "Maple Mono",
   "textFontFamily": "Maple Mono",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "accentColor": "#39c5bb",
+  "nativeMenus": false
 }

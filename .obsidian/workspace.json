@@ -35,9 +35,24 @@
               "title": "文言文实词"
             },
             "group": "ab3f58554463969a"
+          },
+          {
+            "id": "6fa57e59f3669bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02"
+            },
+            "group": "d3309991524d4d08"
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bde9c1f150a3a973",
@@ -57,8 +72,24 @@
               "title": "文言文实词"
             },
             "group": "ab3f58554463969a"
+          },
+          {
+            "id": "d2330eb2e3804156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/02.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02"
+            },
+            "group": "d3309991524d4d08"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订.md"
+                "file": "Temp/02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HIS-08-01-U2 近代化的早期探索和民族危机的加剧-L7 八国联军侵华与《辛丑条约》签订 的大纲"
+              "title": "02 的大纲"
             }
           },
           {
@@ -189,8 +223,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -209,8 +243,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
             }
           },
           {
@@ -219,8 +253,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -234,12 +268,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +291,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c80e6f268a485c93",
+  "active": "afef8475e9280ef1",
   "lastOpenFiles": [
+    "Temp/01.md",
+    "Temp/02.md",
+    "未命名 1.md",
+    "文言文实词.md",
     "Temp",
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替.md",
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
@@ -278,8 +315,6 @@
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L2 从“贞观之治”到“开元盛世”.md",
     "未命名.md",
-    "未命名 1.md",
-    "文言文实词.md",
     "Eng-单词.md",
     "HIS/08-01/HIS-08-01-重点问题默写.md",
     "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
@@ -295,7 +330,6 @@
     "Welcome.md",
     "HIS/07-02",
     "未命名 1",
-    "Temp.md",
     "HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.pdf",
     "Temp.pdf",
     "attachment/Pasted image 20250109130630.png",
@@ -306,7 +340,6 @@
     "HIS/08-02",
     "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L21 冷战后的世界格局.pdf",
     "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L20 联合国与世界贸易组织.pdf",
-    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.pdf",
     "attachment/Pasted image 20250108061927.png"
   ]
 }
