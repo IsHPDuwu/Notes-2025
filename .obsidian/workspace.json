@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -284,7 +285,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,6 +307,7 @@
   },
   "active": "6fa57e59f3669bae",
   "lastOpenFiles": [
+    "attachment/Pasted image 20250413180443.png",
     "attachment/Pasted image 20250413175344.png",
     "attachment/Pasted image 20250413174923.png",
     "attachment/Pasted image 20250413174831.png",
@@ -332,7 +335,6 @@
     "attachment/Pasted image 20250330231841.png",
     "attachment/Pasted image 20250330231832.png",
     "attachment/Pasted image 20250330231200.png",
-    "attachment/Pasted image 20250330231128.png",
     "HIS/朝代概况.md",
     "HIS/HIS-考点.md",
     "HIS/HIS-12-05-2024.md",
