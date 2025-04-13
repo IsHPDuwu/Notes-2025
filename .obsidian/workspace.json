@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/02.md",
+                "file": "HIS/中国古代史背默.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02"
+              "title": "中国古代史背默"
             }
           },
           {
@@ -62,8 +62,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "bde9c1f150a3a973",
@@ -100,8 +99,7 @@
             },
             "group": "d3309991524d4d08"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -175,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp/03.md",
+                "file": "HIS/中国古代史背默.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +182,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "03 的反向链接列表"
+              "title": "中国古代史背默 的反向链接列表"
             }
           },
           {
@@ -194,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp/03.md",
+                "file": "HIS/中国古代史背默.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "03 的出链列表"
+              "title": "中国古代史背默 的出链列表"
             }
           },
           {
@@ -221,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/03.md",
+                "file": "HIS/中国古代史背默.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03 的大纲"
+              "title": "中国古代史背默 的大纲"
             }
           },
           {
@@ -305,8 +302,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fa57e59f3669bae",
+  "active": "25f8c96f20e6476b",
   "lastOpenFiles": [
+    "Temp/02.md",
+    "文言文实词.md",
+    "Temp/03.md",
     "attachment/Pasted image 20250413180443.png",
     "attachment/Pasted image 20250413175344.png",
     "attachment/Pasted image 20250413174923.png",
@@ -314,15 +314,12 @@
     "attachment/Pasted image 20250413174256.png",
     "attachment/Pasted image 20250413173446.png",
     "CHS/课下注释/诗经二首.md",
-    "Temp/03.md",
     "CHS/课下注释/核舟记.md",
     "CHS/课下注释/白雪歌送武判官归京.md",
     "HIS/中国古代史背默.md",
     "CHS/课下注释/小石潭记.md",
     "CHS/课下注释/桃花源记.md",
-    "Temp/02.md",
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
-    "文言文实词.md",
     "CHS/课下注释/十五从军征.md",
     "CHS/课下注释/output.md",
     "Temp/09-02-E5 时间安排表.md",
@@ -334,7 +331,6 @@
     "attachment/Pasted image 20250401063516.png",
     "attachment/Pasted image 20250330231841.png",
     "attachment/Pasted image 20250330231832.png",
-    "attachment/Pasted image 20250330231200.png",
     "HIS/朝代概况.md",
     "HIS/HIS-考点.md",
     "HIS/HIS-12-05-2024.md",
