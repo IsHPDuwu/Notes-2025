@@ -6,8 +6,8 @@
     "timelines"
   ],
   "monospaceFontFamily": "Maple Mono",
-  "textFontFamily": "Maple Mono",
-  "interfaceFontFamily": "",
+  "textFontFamily": "Maple Mono,Noto Sans SC",
+  "interfaceFontFamily": "Noto Sans SC",
   "accentColor": "#39c5bb",
   "nativeMenus": false
 }
