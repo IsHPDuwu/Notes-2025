@@ -278,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -302,7 +302,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25f8c96f20e6476b",
+  "active": "3d5b5d6a806ed113",
   "lastOpenFiles": [
     "Temp/02.md",
     "Temp/03.md",
