@@ -19,29 +19,62 @@
               },
               "icon": "lucide-file",
               "title": "K-20250521"
-            }
+            },
+            "group": "7662545935438c2f"
           }
         ]
       },
       {
-        "id": "ebb0de626af38707",
-        "type": "tabs",
+        "id": "f9619feefc01e640",
+        "type": "split",
         "children": [
           {
-            "id": "6ca30a2e17dd0dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHS/K/K-20250521.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "K-20250521"
-            }
+            "id": "ebb0de626af38707",
+            "type": "tabs",
+            "dimension": 77.10000000000001,
+            "children": [
+              {
+                "id": "6ca30a2e17dd0dd0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CHS/K/K-20250521.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "K-20250521"
+                },
+                "group": "7662545935438c2f"
+              }
+            ]
+          },
+          {
+            "id": "6a8663a8eb3b5d59",
+            "type": "tabs",
+            "dimension": 22.900000000000002,
+            "children": [
+              {
+                "id": "2e9203e4ab697288",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "CHS/K/K-20250521.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "K-20250521 的大纲"
+                },
+                "group": "7662545935438c2f"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -224,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25f8c96f20e6476b",
+  "active": "2e9203e4ab697288",
   "lastOpenFiles": [
     "CHS/K/K-20241201.md",
     "CHS/K/K-20250521.md",
