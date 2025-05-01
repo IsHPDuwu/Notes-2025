@@ -22,13 +22,26 @@
               "title": "04"
             },
             "group": "394e8b0cfdd3f599"
+          },
+          {
+            "id": "049e800257c40c0f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e24e62b2e4ac4132",
         "type": "tabs",
-        "dimension": 47.86545924967658,
+        "dimension": 47.86545924967659,
         "children": [
           {
             "id": "d05620b3f2e30306",
@@ -249,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25f8c96f20e6476b",
+  "active": "3d5b5d6a806ed113",
   "lastOpenFiles": [
     "attachment/Pasted image 20250420184047.png",
     "attachment/Pasted image 20250420183646.png",
