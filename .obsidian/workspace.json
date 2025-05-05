@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/05.md",
+                "file": "Temp/07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05"
+              "title": "07"
             },
             "group": "7662545935438c2f"
           }
@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Temp/05.md",
+                    "file": "Temp/07.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "05"
+                  "title": "07"
                 },
                 "group": "7662545935438c2f"
               }
@@ -53,7 +53,7 @@
           {
             "id": "6a8663a8eb3b5d59",
             "type": "tabs",
-            "dimension": 22.900000000000002,
+            "dimension": 22.9,
             "children": [
               {
                 "id": "2e9203e4ab697288",
@@ -61,13 +61,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Temp/05.md",
+                    "file": "Temp/07.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "05 的大纲"
+                  "title": "07 的大纲"
                 },
                 "group": "7662545935438c2f"
               }
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -234,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -260,22 +259,23 @@
   },
   "active": "25f8c96f20e6476b",
   "lastOpenFiles": [
-    "attachment/Pasted image 20250502095850.png",
-    "CHS/K/K-20250521.md",
+    "Temp/06.md",
+    "Temp/07.md",
+    "attachment/Pasted image 20250504184403.png",
+    "attachment/Pasted image 20250504184337.png",
+    "attachment/Pasted image 20250504184202.png",
+    "attachment/Pasted image 20250504183718.png",
+    "attachment/Pasted image 20250504183506.png",
+    "attachment/Pasted image 20250504182843.png",
+    "attachment/Pasted image 20250504182818.png",
+    "attachment/Pasted image 20250504182444.png",
+    "attachment/Pasted image 20250504182317.png",
+    "attachment/Pasted image 20250504181811.png",
     "Temp/05.md",
+    "CHS/K/K-20250521.md",
     "CHS/K/K-20241201.md",
     "CHS/K/K-20241124.md",
     "Temp/04.md",
-    "attachment/Pasted image 20250420184047.png",
-    "attachment/Pasted image 20250420183646.png",
-    "attachment/Pasted image 20250420183331.png",
-    "attachment/Pasted image 20250420182945.png",
-    "attachment/Pasted image 20250420182937.png",
-    "attachment/Pasted image 20250420182544.png",
-    "attachment/Pasted image 20250420182204.png",
-    "attachment/Pasted image 20250420181733.png",
-    "attachment/Pasted image 20250420180715.png",
-    "attachment/Pasted image 20250420180519.png",
     "文言文实词.md",
     "Temp/03.md",
     "Temp/09-01-E5.md",
@@ -299,7 +299,6 @@
     "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-L4 夏商周的更替.md",
     "HIS/朝代概况.md",
     "HIS/HIS-考点.md",
-    "HIS/HIS-12-05-2024.md",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
     "HIS/07-01",
     "HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
