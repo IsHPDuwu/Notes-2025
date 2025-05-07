@@ -1,91 +1,211 @@
-<head></head>
+已思考 1 秒
+
+
+---
 
 ## 问题重述（含新增要求）
 
-- 已知点：
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>B</mi><mo stretchy="false">(</mo><mn>0</mn><mo separator="true">,</mo><mn>0</mn><mo stretchy="false">)</mo><mo separator="true">,</mo><mspace width="1em"></mspace><mi>A</mi><mo stretchy="false">(</mo><mn>0</mn><mo separator="true">,</mo><mn>600</mn><mo stretchy="false">)</mo><mo separator="true">,</mo><mspace width="1em"></mspace><mi>C</mi><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>600</mn><msqrt><mn>3</mn></msqrt><mo separator="true">,</mo><mn>0</mn><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mo separator="true">,</mo><mspace width="1em"></mspace><mi>D</mi><mo stretchy="false">(</mo><mn>800</mn><mo separator="true">,</mo><mn>600</mn><mo stretchy="false">)</mo><mo separator="true">,</mo><mspace width="1em"></mspace><mi>H</mi><mo stretchy="false">(</mo><mn>0</mn><mo separator="true">,</mo><mn>1000</mn><mo stretchy="false">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> B(0,0),\quad A(0,600),\quad C\bigl(600\sqrt3,0\bigr),\quad D(800,600),\quad H(0,1000).</annotation></semantics></math>
-- 以 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>H</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">HD</annotation></semantics></math> 为直径作圆 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi></mrow><annotation encoding="application/x-tex">\Gamma</annotation></semantics></math>，圆心  
-<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mstyle scriptlevel="0" displaystyle="true"><mi>O</mi><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>400</mn><mo separator="true">,</mo><mn>800</mn><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo></mstyle></mrow><annotation encoding="application/x-tex">\displaystyle O\bigl(400,800\bigr)</annotation></semantics></math>，半径 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>R</mi><mo>=</mo><msqrt><mn>200000</mn></msqrt><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt></mrow><annotation encoding="application/x-tex">R=\sqrt{200000}=200\sqrt5</annotation></semantics></math>。
-- 点 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math> 在圆 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi mathvariant="normal">Γ</mi></mrow><annotation encoding="application/x-tex">\Gamma</annotation></semantics></math> 的弧 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi><mover><mo><mi>A</mi><mi>D</mi></mo><mo lspace="0em" rspace="0em">⌢</mo></mover></mi></mrow><annotation encoding="application/x-tex">\overset{\frown}{AD}</annotation></semantics></math> 上（含端点）运动。
-- 连接 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>H</mi><mi>G</mi></mrow><annotation encoding="application/x-tex">HG</annotation></semantics></math> 与 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">AD</annotation></semantics></math> 相交于 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi></mrow><annotation encoding="application/x-tex">E</annotation></semantics></math>，延长 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>H</mi><mi>G</mi></mrow><annotation encoding="application/x-tex">HG</annotation></semantics></math> 与 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math> 相交于 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math>，且 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math> 在线段 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math> 上。
-- 要求：
+* 已知点：
 
-    1. <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext> </mtext><mi>E</mi><mi>G</mi><mo>+</mo><mi>B</mi><mi>G</mi><mo>+</mo><mi>C</mi><mi>G</mi></mrow><annotation encoding="application/x-tex">\;EG + BG + CG</annotation></semantics></math> 的最小值及对应最优点 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math> 的**完全根号**、**分母有理化**坐标；
-    2. 在此最优配置下的 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>F</mi></mrow><annotation encoding="application/x-tex">EF</annotation></semantics></math> 长度，保留根号、分母有理化。
+  $$
+    B(0,0),\quad A(0,600),\quad C\bigl(600\sqrt3,0\bigr),\quad D(800,600),\quad H(0,1000).
+  $$
+* 以 $HD$ 为直径作圆 $\Gamma$，圆心
+  $\displaystyle O\bigl(400,800\bigr)$，半径 $R=\sqrt{200000}=200\sqrt5$。
+* 点 $G$ 在圆 $\Gamma$ 的弧 $\overset{\frown}{AD}$ 上（含端点）运动。
+* 连接 $HG$ 与 $AD$ 相交于 $E$，延长 $HG$ 与 $BC$ 相交于 $F$，且 $F$ 在线段 $BC$ 上。
+* 要求：
 
-* * *
+  1. $\;EG + BG + CG$ 的最小值及对应最优点 $G$ 的**完全根号**、**分母有理化**坐标；
+  2. 在此最优配置下的 $EF$ 长度，保留根号、分母有理化。
+
+---
 
 ## 一、反射法与等价路径
 
-1. **镜面直线**：直线 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>A</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">AD</annotation></semantics></math>：<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mn>600</mn></mrow><annotation encoding="application/x-tex">y=600</annotation></semantics></math>。
+1. **镜面直线**：直线 $AD$：$y=600$。
 2. **反射点**：将
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>B</mi><mo>=</mo><mo stretchy="false">(</mo><mn>0</mn><mo separator="true">,</mo><mn>0</mn><mo stretchy="false">)</mo><mo separator="true">,</mo><mspace width="1em"></mspace><mi>C</mi><mo>=</mo><mo stretchy="false">(</mo><mn>600</mn><msqrt><mn>3</mn></msqrt><mo separator="true">,</mo><mn>0</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex"> B=(0,0),\quad C=(600\sqrt3,0)</annotation></semantics></math>
-    关于 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mn>600</mn></mrow><annotation encoding="application/x-tex">y=600</annotation></semantics></math> 做镜像，得
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><msup><mi>B</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo>=</mo><mo stretchy="false">(</mo><mn>0</mn><mo separator="true">,</mo><mn>1200</mn><mo stretchy="false">)</mo><mo separator="true">,</mo><mspace width="2em"></mspace><msup><mi>C</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo>=</mo><mo stretchy="false">(</mo><mn>600</mn><msqrt><mn>3</mn></msqrt><mo separator="true">,</mo><mn>1200</mn><mo stretchy="false">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> B'=(0,1200),\qquad C'=(600\sqrt3,1200).</annotation></semantics></math>
-3. **路径等价**：  
-对任意 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math>，
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>B</mi><mi>G</mi><mo>=</mo><msup><mi>B</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mi>G</mi><mo separator="true">,</mo><mspace width="1em"></mspace><mi>C</mi><mi>G</mi><mo>=</mo><msup><mi>C</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mi>G</mi><mo separator="true">,</mo><mspace width="1em"></mspace><mi>E</mi><mi>G</mi><mo>=</mo><mtext>垂距</mtext><mo stretchy="false">(</mo><mi>G</mi><mo>→</mo><mi>y</mi><mo>=</mo><mn>600</mn><mo stretchy="false">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> BG = B'G,\quad CG = C'G,\quad EG=\text{垂距}(G\to y=600).</annotation></semantics></math>
-    故
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>E</mi><mi>G</mi><mo>+</mo><mi>B</mi><mi>G</mi><mo>+</mo><mi>C</mi><mi>G</mi><mo>=</mo><munder><munder><mrow><mo stretchy="false">(</mo><mtext>垂距&nbsp;</mtext><mi>G</mi><mo>→</mo><mi>y</mi><mo>=</mo><mn>600</mn><mo stretchy="false">)</mo></mrow><mo stretchy="true">⏟</mo></munder><mrow><mi>E</mi><mi>G</mi></mrow></munder><mo>+</mo><msup><mi>B</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mi>G</mi><mo>+</mo><msup><mi>C</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mi>G</mi><mo separator="true">,</mo></mrow><annotation encoding="application/x-tex"> EG+BG+CG = \underbrace{(\text{垂距 }G\to y=600)}_{EG} +B'G+C'G,</annotation></semantics></math>
-    等价于折线 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>B</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup><mo>→</mo><mi>G</mi><mo>→</mo><msup><mi>C</mi><mo mathvariant="normal" lspace="0em" rspace="0em">′</mo></msup></mrow><annotation encoding="application/x-tex">B'\to G\to C'</annotation></semantics></math> 在“镜面” <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mn>600</mn></mrow><annotation encoding="application/x-tex">y=600</annotation></semantics></math> 处折射一次的总长度。
 
-* * *
+   $$
+     B=(0,0),\quad C=(600\sqrt3,0)
+   $$
+
+   关于 $y=600$ 做镜像，得
+
+   $$
+     B'=(0,1200),\qquad C'=(600\sqrt3,1200).
+   $$
+3. **路径等价**：
+   对任意 $G$，
+
+   $$
+     BG = B'G,\quad CG = C'G,\quad EG=\text{垂距}(G\to y=600).
+   $$
+
+   故
+
+   $$
+     EG+BG+CG
+     =
+     \underbrace{(\text{垂距 }G\to y=600)}_{EG}
+     +B'G+C'G,
+   $$
+
+   等价于折线 $B'\to G\to C'$ 在“镜面” $y=600$ 处折射一次的总长度。
+
+---
 
 ## 二、最短路径的折射条件
 
-- 根据“光路最短”原则，折射点 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math> 处应满足入射线与折射线相对于镜面法线的折射角相等。
-- 综合法线夹角相等与切线方向极值，并计入垂距段，得到对 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mo>=</mo><mo stretchy="false">(</mo><mi>x</mi><mo separator="true">,</mo><mi>y</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">G=(x,y)</annotation></semantics></math> 的代数条件：
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><menclose notation="box"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="true"><mrow><mfrac><mi>x</mi><msqrt><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></msqrt></mfrac><mtext> </mtext><mo>−</mo><mtext> </mtext><mfrac><mrow><mi>x</mi><mo>−</mo><mn>600</mn><msqrt><mn>3</mn></msqrt></mrow><msqrt><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>600</mn><msqrt><mn>3</mn></msqrt><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup></mrow></msqrt></mfrac><mtext> </mtext><mo>=</mo><mtext> </mtext><mfrac><mrow><mn>400</mn><mo>−</mo><mi>y</mi></mrow><mn>200</mn></mfrac><mi mathvariant="normal">.</mi></mrow></mstyle></mstyle></mstyle></menclose></mrow><annotation encoding="application/x-tex">\boxed{ \frac{x}{\sqrt{x^2 + y^2}} \;-\; \frac{x - 600\sqrt3}{\sqrt{(x - 600\sqrt3)^2 + y^2}} \;=\; \frac{400 - y}{200}.}</annotation></semantics></math>
-- 圆上约束：
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo stretchy="false">(</mo><mi>x</mi><mo>−</mo><mn>400</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>+</mo><mo stretchy="false">(</mo><mi>y</mi><mo>−</mo><mn>800</mn><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mn>200000.</mn></mrow><annotation encoding="application/x-tex"> (x - 400)^2 + (y - 800)^2 = 200000.</annotation></semantics></math>
+* 根据“光路最短”原则，折射点 $G$ 处应满足入射线与折射线相对于镜面法线的折射角相等。
+* 综合法线夹角相等与切线方向极值，并计入垂距段，得到对 $G=(x,y)$ 的代数条件：
 
-* * *
+  $$
+  \boxed{
+    \frac{x}{\sqrt{x^2 + y^2}}
+    \;-\;
+    \frac{x - 600\sqrt3}{\sqrt{(x - 600\sqrt3)^2 + y^2}}
+    \;=\;
+    \frac{400 - y}{200}.
+  }
+  $$
+* 圆上约束：
 
-## 三、联立方程求 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math>
+  $$
+    (x - 400)^2 + (y - 800)^2 = 200000.
+  $$
+
+---
+
+## 三、联立方程求 $G$
 
 记
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>u</mi><mo>=</mo><msqrt><mn>2843</mn></msqrt><mo separator="true">,</mo><mspace width="1em"></mspace><mi>v</mi><mo>=</mo><msqrt><mn>4929</mn></msqrt><mo separator="true">,</mo><mspace width="1em"></mspace><mi>R</mi><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">u=\sqrt{2843},\quad v=\sqrt{4929},\quad R=200\sqrt5.</annotation></semantics></math>
-解方程组可得唯一在弧 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi><mover><mo><mi>A</mi><mi>D</mi></mo><mo lspace="0em" rspace="0em">⌢</mo></mover></mi></mrow><annotation encoding="application/x-tex">\overset{\frown}{AD}</annotation></semantics></math> 上的解：
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>G</mi><mo>=</mo><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><msub><mi>x</mi><mi>G</mi></msub><mo separator="true">,</mo><msub><mi>y</mi><mi>G</mi></msub><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mo>=</mo><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">(</mo><mn>400</mn><mo>+</mo><mi>d</mi><mo separator="true">,</mo><mtext> </mtext><mn>800</mn><mo>−</mo><mi>d</mi><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">)</mo><mo separator="true">,</mo></mrow><annotation encoding="application/x-tex">G=\bigl(x_G,y_G\bigr)=\Bigl(400+d,\;800-d\Bigr),</annotation></semantics></math>
+
+$$
+u=\sqrt{2843},\quad v=\sqrt{4929},\quad R=200\sqrt5.
+$$
+
+解方程组可得唯一在弧 $\overset{\frown}{AD}$ 上的解：
+
+$$
+G=\bigl(x_G,y_G\bigr)
+=
+\Bigl(400+d,\;800-d\Bigr),
+$$
+
 其中
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>d</mi><mo>=</mo><mfrac><mrow><mi>R</mi><mtext> </mtext><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow><mrow><mi>v</mi><mo>−</mo><mi>u</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><mo stretchy="false">)</mo></mrow><mrow><msqrt><mn>4929</mn></msqrt><mo>−</mo><msqrt><mn>2843</mn></msqrt></mrow></mfrac><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">d=\frac{R\,(u+v)}{v-u}=\frac{200\sqrt5\,(\sqrt{2843}+\sqrt{4929})}{\sqrt{4929}-\sqrt{2843}}.</annotation></semantics></math>
-* * *
 
-## 四、<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi></mrow><annotation encoding="application/x-tex">d</annotation></semantics></math> 的分母有理化
+$$
+d
+=\frac{R\,(u+v)}{v-u}
+=\frac{200\sqrt5\,(\sqrt{2843}+\sqrt{4929})}{\sqrt{4929}-\sqrt{2843}}.
+$$
 
-1. 利用  
-<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mn>200000</mn></msqrt><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt></mrow><annotation encoding="application/x-tex">\sqrt{200000}=200\sqrt5</annotation></semantics></math>，
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>d</mi><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mo stretchy="false">(</mo><mtext> </mtext><mi>u</mi><mo>+</mo><mi>v</mi><mtext> </mtext><mo stretchy="false">)</mo><mtext> </mtext><mfrac><mn>1</mn><mrow><mi>v</mi><mo>−</mo><mi>u</mi></mrow></mfrac><mtext> </mtext><mo>×</mo><mtext> </mtext><mfrac><mrow><mi>v</mi><mo>+</mo><mi>u</mi></mrow><mrow><mi>v</mi><mo>+</mo><mi>u</mi></mrow></mfrac><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mfrac><mrow><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mrow><mo stretchy="false">(</mo><mi>v</mi><mo>−</mo><mi>u</mi><mo stretchy="false">)</mo><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo></mrow></mfrac><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mfrac><mrow><mi>u</mi><mo>+</mo><mi>v</mi></mrow><mrow><mi>v</mi><mo>−</mo><mi>u</mi></mrow></mfrac><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> d =200\sqrt5\,(\,u+v\,)\;\frac{1}{v-u} \;\times\; \frac{v+u}{v+u} =200\sqrt5\,\frac{(u+v)^2}{(v-u)(u+v)} =200\sqrt5\,\frac{u+v}{v-u}.</annotation></semantics></math>
-2. 又  
-<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mn>2843</mn><mo>+</mo><mn>4929</mn><mo>+</mo><mn>2</mn><mi>u</mi><mi>v</mi><mo>=</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">(u+v)^2=2843+4929+2uv=7772+2\sqrt{2843\cdot4929}.</annotation></semantics></math>
+---
+
+## 四、$d$ 的分母有理化
+
+1. 利用
+   $\sqrt{200000}=200\sqrt5$，
+
+   $$
+     d
+     =200\sqrt5\,(\,u+v\,)\;\frac{1}{v-u}
+     \;\times\;
+     \frac{v+u}{v+u}
+     =200\sqrt5\,\frac{(u+v)^2}{(v-u)(u+v)}
+     =200\sqrt5\,\frac{u+v}{v-u}.
+   $$
+2. 又
+   $(u+v)^2=2843+4929+2uv=7772+2\sqrt{2843\cdot4929}.$
 3. 故
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>d</mi><mo>=</mo><mfrac><mrow><mn>200</mn><msqrt><mn>5</mn></msqrt></mrow><mrow><mtext> </mtext><mi>v</mi><mo>−</mo><mi>u</mi><mtext> </mtext></mrow></mfrac><mtext> </mtext><mo stretchy="false">(</mo><mi>u</mi><mo>+</mo><mi>v</mi><mo stretchy="false">)</mo><mo>=</mo><mfrac><mrow><mn>200</mn><msqrt><mn>5</mn></msqrt></mrow><mrow><mtext> </mtext><mi>v</mi><mo>−</mo><mi>u</mi><mtext> </mtext></mrow></mfrac><mtext> </mtext><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><mo stretchy="false">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> d =\frac{200\sqrt5}{\,v-u\,}\,(u+v) =\frac{200\sqrt5}{\,v-u\,}\,(\sqrt{2843}+\sqrt{4929}).</annotation></semantics></math>
+
+   $$
+     d
+     =\frac{200\sqrt5}{\,v-u\,}\,(u+v)
+     =\frac{200\sqrt5}{\,v-u\,}\,(\sqrt{2843}+\sqrt{4929}).
+   $$
 4. 进一步有理化分母：
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>d</mi><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><mo stretchy="false">)</mo><mfrac><mrow><mi>v</mi><mo>+</mo><mi>u</mi></mrow><mrow><msup><mi>v</mi><mn>2</mn></msup><mo>−</mo><msup><mi>u</mi><mn>2</mn></msup></mrow></mfrac><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mfrac><mrow><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><msup><mo stretchy="false">)</mo><mn>2</mn></msup></mrow><mrow><mn>4929</mn><mo>−</mo><mn>2843</mn></mrow></mfrac><mo>=</mo><mn>200</mn><msqrt><mn>5</mn></msqrt><mtext> </mtext><mfrac><mrow><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt></mrow><mn>2086</mn></mfrac><mo>=</mo><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac><mtext> </mtext><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> d =200\sqrt5\,(\sqrt{2843}+\sqrt{4929}) \frac{v+u}{v^2-u^2} =200\sqrt5\,\frac{(\sqrt{2843}+\sqrt{4929})^2}{4929-2843} =200\sqrt5\,\frac{7772+2\sqrt{2843\cdot4929}}{2086} =\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).</annotation></semantics></math>
 
-* * *
+   $$
+     d
+     =200\sqrt5\,(\sqrt{2843}+\sqrt{4929})
+     \frac{v+u}{v^2-u^2}
+     =200\sqrt5\,\frac{(\sqrt{2843}+\sqrt{4929})^2}{4929-2843}
+     =200\sqrt5\,\frac{7772+2\sqrt{2843\cdot4929}}{2086}
+     =\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).
+   $$
 
-## 五、<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math> 的完全根号、已有理化坐标
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><menclose notation="box"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="true"><mtable rowspacing="0.25em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><msub><mi>x</mi><mi>G</mi></msub></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mn>400</mn><mo>+</mo><mi>d</mi><mo>=</mo><mn>400</mn><mo>+</mo><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac><mtext> </mtext><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mo separator="true">,</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><msub><mi>y</mi><mi>G</mi></msub></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mo>=</mo><mn>800</mn><mo>−</mo><mi>d</mi><mo>=</mo><mn>800</mn><mo>−</mo><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac><mtext> </mtext><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mi mathvariant="normal">.</mi></mrow></mstyle></mtd></mtr></mtable></mstyle></mstyle></mstyle></menclose></mrow><annotation encoding="application/x-tex">\boxed{\begin{aligned}x_G&amp;=400+d=400+\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr),\\y_G&amp;=800-d=800-\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).\end{aligned}}</annotation></semantics></math>
-* * *
+---
+
+## 五、$G$ 的完全根号、已有理化坐标
+
+$$
+\boxed{
+\begin{aligned}
+x_G
+&=400+d
+=400+\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr),\\
+y_G
+&=800-d
+=800-\frac{100\sqrt5}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).
+\end{aligned}
+}
+$$
+
+---
 
 ## 六、最小值
 
 代入可得
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>min</mi><mo>⁡</mo><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mi>E</mi><mi>G</mi><mo>+</mo><mi>B</mi><mi>G</mi><mo>+</mo><mi>C</mi><mi>G</mi><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mo>=</mo><mn>12</mn><mtext> </mtext><mi>u</mi><mo>+</mo><mn>13</mn><mtext> </mtext><mi>v</mi><mo>=</mo><mn>12</mn><msqrt><mn>2843</mn></msqrt><mo>+</mo><mn>13</mn><msqrt><mn>4929</mn></msqrt><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">\min\bigl(EG+BG+CG\bigr)=12\,u+13\,v=12\sqrt{2843}+13\sqrt{4929}.</annotation></semantics></math>
-* * *
 
-## 七、计算并有理化 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>F</mi></mrow><annotation encoding="application/x-tex">EF</annotation></semantics></math>
+$$
+\min\bigl(EG+BG+CG\bigr)
+=12\,u+13\,v
+=12\sqrt{2843}+13\sqrt{4929}.
+$$
 
-1. **参数 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi></mrow><annotation encoding="application/x-tex">G</annotation></semantics></math>**：同上，<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>d</mi><mo>=</mo><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac><mo stretchy="false">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">d=\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929})</annotation></semantics></math>。
-2. **直线 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>H</mi><mi>G</mi></mrow><annotation encoding="application/x-tex">HG</annotation></semantics></math>** 交 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math>（<math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>y</mi><mo>=</mo><mn>0</mn></mrow><annotation encoding="application/x-tex">y=0</annotation></semantics></math>）于 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math>：经参量得
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>F</mi><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">(</mo><mstyle displaystyle="false" scriptlevel="0"><mfrac><mrow><mn>1000</mn><mo stretchy="false">(</mo><mn>400</mn><mo>+</mo><mi>d</mi><mo stretchy="false">)</mo></mrow><mrow><mn>200</mn><mo>+</mo><mi>d</mi></mrow></mfrac></mstyle><mo separator="true">,</mo><mtext> </mtext><mn>0</mn><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> F\Bigl(\tfrac{1000(400+d)}{200+d},\,0\Bigr).</annotation></semantics></math>
+---
+
+## 七、计算并有理化 $EF$
+
+1. **参数 $G$**：同上，$d=\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929})$。
+2. **直线 $HG$** 交 $BC$（$y=0$）于 $F$：经参量得
+
+   $$
+     F\Bigl(\tfrac{1000(400+d)}{200+d},\,0\Bigr).
+   $$
 3. **计算**
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>E</mi><mi>F</mi><mo>=</mo><msqrt><mrow><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">(</mo><mstyle displaystyle="false" scriptlevel="0"><mfrac><mrow><mn>1000</mn><mo stretchy="false">(</mo><mn>400</mn><mo>+</mo><mi>d</mi><mo stretchy="false">)</mo></mrow><mrow><mn>200</mn><mo>+</mo><mi>d</mi></mrow></mfrac></mstyle><mo>−</mo><mo stretchy="false">(</mo><mn>400</mn><mo>+</mo><mi>d</mi><mo stretchy="false">)</mo><msup><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">)</mo><mn>2</mn></msup><mo>+</mo><msup><mn>600</mn><mn>2</mn></msup></mrow></msqrt><mo>=</mo><mfrac><mrow><mn>600</mn><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><mo stretchy="false">)</mo></mrow><mrow><msqrt><mn>4929</mn></msqrt><mo>−</mo><msqrt><mn>2843</mn></msqrt></mrow></mfrac><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex"> EF =\sqrt{\Bigl(\tfrac{1000(400+d)}{200+d}-(400+d)\Bigr)^2+600^2} =\frac{600(\sqrt{2843}+\sqrt{4929})}{\sqrt{4929}-\sqrt{2843}}.</annotation></semantics></math>
-4. **分母有理化**
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>E</mi><mi>F</mi><mo>=</mo><mn>600</mn><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><mo stretchy="false">)</mo><mfrac><mrow><msqrt><mn>4929</mn></msqrt><mo>+</mo><msqrt><mn>2843</mn></msqrt></mrow><mrow><mn>4929</mn><mo>−</mo><mn>2843</mn></mrow></mfrac><mo>=</mo><mfrac><mn>600</mn><mn>2086</mn></mfrac><mtext> </mtext><mo stretchy="false">(</mo><msqrt><mn>2843</mn></msqrt><mo>+</mo><msqrt><mn>4929</mn></msqrt><msup><mo stretchy="false">)</mo><mn>2</mn></msup><mo>=</mo><mfrac><mn>300</mn><mn>1043</mn></mfrac><mtext> </mtext><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">EF=600(\sqrt{2843}+\sqrt{4929})\frac{\sqrt{4929}+\sqrt{2843}}{4929-2843}=\frac{600}{2086}\,(\sqrt{2843}+\sqrt{4929})^2=\frac{300}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).</annotation></semantics></math>
 
-* * *
+   $$
+     EF
+     =\sqrt{\Bigl(\tfrac{1000(400+d)}{200+d}-(400+d)\Bigr)^2+600^2}
+     =\frac{600(\sqrt{2843}+\sqrt{4929})}{\sqrt{4929}-\sqrt{2843}}.
+   $$
+4. **分母有理化**
+
+   $$
+   EF
+   =600(\sqrt{2843}+\sqrt{4929})
+   \frac{\sqrt{4929}+\sqrt{2843}}{4929-2843}
+   =\frac{600}{2086}\,(\sqrt{2843}+\sqrt{4929})^2
+   =\frac{300}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).
+   $$
+
+---
 
 ## 八、最终答案
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><menclose notation="box"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="false"><mstyle scriptlevel="0" displaystyle="true"><mtable rowspacing="0.25em" columnalign="right left" columnspacing="0em"><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>G</mi><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><msub><mi>x</mi><mi>G</mi></msub><mo separator="true">,</mo><msub><mi>y</mi><mi>G</mi></msub><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mo>=</mo><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">(</mo><mn>400</mn><mo>+</mo><mstyle displaystyle="false" scriptlevel="0"><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac></mstyle><mo stretchy="false">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo stretchy="false">)</mo><mo separator="true">,</mo><mtext> </mtext><mn>800</mn><mo>−</mo><mstyle displaystyle="false" scriptlevel="0"><mfrac><mrow><mn>100</mn><msqrt><mn>5</mn></msqrt></mrow><mn>1043</mn></mfrac></mstyle><mo stretchy="false">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo stretchy="false">)</mo><mo fence="true" stretchy="true" minsize="1.8em" maxsize="1.8em">)</mo><mo separator="true">,</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>min</mi><mo>⁡</mo><mo stretchy="false">(</mo><mi>E</mi><mi>G</mi><mo>+</mo><mi>B</mi><mi>G</mi><mo>+</mo><mi>C</mi><mi>G</mi><mo stretchy="false">)</mo><mo>=</mo><mn>12</mn><msqrt><mn>2843</mn></msqrt><mo>+</mo><mn>13</mn><msqrt><mn>4929</mn></msqrt><mo separator="true">,</mo></mrow></mstyle></mtd></mtr><mtr><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow></mrow></mstyle></mtd><mtd><mstyle scriptlevel="0" displaystyle="true"><mrow><mrow></mrow><mi>E</mi><mi>F</mi><mo>=</mo><mfrac><mn>300</mn><mn>1043</mn></mfrac><mtext> </mtext><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">(</mo><mn>7772</mn><mo>+</mo><mn>2</mn><msqrt><mrow><mn>2843</mn><mo>⋅</mo><mn>4929</mn></mrow></msqrt><mo fence="true" stretchy="true" minsize="1.2em" maxsize="1.2em">)</mo><mi mathvariant="normal">.</mi></mrow></mstyle></mtd></mtr></mtable></mstyle></mstyle></mstyle></menclose></mrow><annotation encoding="application/x-tex">\boxed{\begin{aligned}&amp;G\bigl(x_G,y_G\bigr)=\Bigl(400+\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929}),\;800-\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929})\Bigr),\\&amp;\min(EG+BG+CG)=12\sqrt{2843}+13\sqrt{4929},\\&amp;EF=\frac{300}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).\end{aligned}}</annotation></semantics></math>
+
+$$
+\boxed{
+\begin{aligned}
+&G\bigl(x_G,y_G\bigr)
+=\Bigl(
+400+\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929}),\;
+800-\tfrac{100\sqrt5}{1043}(7772+2\sqrt{2843\cdot4929})
+\Bigr),\\
+&\min(EG+BG+CG)=12\sqrt{2843}+13\sqrt{4929},\\
+&EF=\frac{300}{1043}\,\bigl(7772+2\sqrt{2843\cdot4929}\bigr).
+\end{aligned}
+}
+$$
