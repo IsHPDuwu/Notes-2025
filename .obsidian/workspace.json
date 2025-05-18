@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "err",
+                "query": "tag:#角度",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca30a2e17dd0dd0",
+  "active": "25f8c96f20e6476b",
   "lastOpenFiles": [
     "HIS/less/2025-05-18.md",
     "Temp/T-2025-05-18.md",
