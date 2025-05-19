@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/T-2025-05-18.md",
+                "file": "POL/sth_is_sth/09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T-2025-05-18"
+              "title": "09-01"
             },
             "group": "7662545935438c2f"
           }
@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Temp/T-2025-05-18.md",
+                    "file": "POL/sth_is_sth/09-01.md",
                     "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "T-2025-05-18"
+                  "title": "09-01"
                 },
                 "group": "7662545935438c2f"
               }
@@ -61,13 +61,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Temp/T-2025-05-18.md",
+                    "file": "POL/sth_is_sth/09-01.md",
                     "followCursor": true,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "T-2025-05-18 的大纲"
+                  "title": "09-01 的大纲"
                 },
                 "group": "7662545935438c2f"
               }
@@ -259,8 +259,8 @@
   },
   "active": "25f8c96f20e6476b",
   "lastOpenFiles": [
-    "POL/民主协商、民主决策、民主管理.md",
     "Temp/T-2025-05-18.md",
+    "POL/民主协商、民主决策、民主管理.md",
     "HIS/less/2025-05-18.md",
     "HIS/less",
     "POL/sth_is_sth/09-01.md",
