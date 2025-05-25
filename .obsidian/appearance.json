@@ -1,13 +1,13 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "theme": "moonstone",
   "enabledCssSnippets": [
     "timelines"
   ],
   "monospaceFontFamily": "Maple Mono",
-  "textFontFamily": "Maple Mono,微软雅黑",
-  "interfaceFontFamily": "Noto Sans SC",
+  "textFontFamily": "Maple Mono,Noto Sans SC",
+  "interfaceFontFamily": "Maple Mono,Noto Sans SC",
   "accentColor": "#39c5bb",
   "nativeMenus": false
 }
