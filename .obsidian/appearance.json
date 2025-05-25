@@ -1,6 +1,6 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 16,
+  "baseFontSize": 27,
   "theme": "moonstone",
   "enabledCssSnippets": [
     "timelines"

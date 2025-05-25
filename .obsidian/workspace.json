@@ -6,7 +6,7 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 50.65632458233891,
+        "dimension": 32.517899761336515,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Temp/T-2025-05-25.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -28,7 +28,7 @@
       {
         "id": "6a8663a8eb3b5d59",
         "type": "tabs",
-        "dimension": 49.343675417661096,
+        "dimension": 67.48210023866349,
         "children": [
           {
             "id": "2e9203e4ab697288",
