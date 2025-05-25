@@ -21,60 +21,73 @@
               "title": "民主协商、民主决策、民主管理"
             },
             "group": "7662545935438c2f"
-          }
-        ]
-      },
-      {
-        "id": "f9619feefc01e640",
-        "type": "split",
-        "children": [
-          {
-            "id": "ebb0de626af38707",
-            "type": "tabs",
-            "dimension": 77.10000000000001,
-            "children": [
-              {
-                "id": "6ca30a2e17dd0dd0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "POL/民主协商、民主决策、民主管理.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "民主协商、民主决策、民主管理"
-                },
-                "group": "7662545935438c2f"
-              }
-            ]
           },
           {
-            "id": "6a8663a8eb3b5d59",
-            "type": "tabs",
-            "dimension": 22.9,
-            "children": [
-              {
-                "id": "2e9203e4ab697288",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "POL/民主协商、民主决策、民主管理.md",
-                    "followCursor": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "民主协商、民主决策、民主管理 的大纲"
-                },
-                "group": "7662545935438c2f"
-              }
-            ]
+            "id": "de5f3cd283a5279d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10"
+            }
+          },
+          {
+            "id": "c9d631e10a35d686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "f921ec26686e8f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
+      },
+      {
+        "id": "6a8663a8eb3b5d59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9203e4ab697288",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "conflict-files-obsidian-git 的大纲"
+            },
+            "group": "7662545935438c2f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,8 +270,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25f8c96f20e6476b",
+  "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Temp/10.md",
     "POL/民主协商、民主决策、民主管理.md",
     "Temp/T-2025-05-18.md",
@@ -300,8 +314,6 @@
     "CHS/课下注释/核舟记.md",
     "CHS/课下注释/白雪歌送武判官归京.md",
     "CHS/课下注释/小石潭记.md",
-    "CHS/课下注释/桃花源记.md",
-    "HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
     "Temp",
     "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
     "HIS/07-01",
