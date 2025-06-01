@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Temp/T-2025-05-25.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -244,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd845d0b8a054d8",
+  "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
     "Temp/T-2025-05-18.md",
     "Temp/07.md",
