@@ -43,17 +43,17 @@
       "isCaseSensitive": true
     },
     "note.": {
-      "value": ">[!NOTE]",
+      "value": "> [!NOTE]",
       "isEnabled": true,
       "position": 2
     },
     "warn.": {
-      "value": ">[!WARNING]",
+      "value": "> [!WARNING]",
       "isEnabled": true,
       "position": 1
     },
     "err.": {
-      "value": ">[!ERROR]",
+      "value": "> [!ERROR]",
       "isEnabled": true,
       "position": 0
     }
