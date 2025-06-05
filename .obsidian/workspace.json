@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/文化成就-板块式.md",
+                "file": "HIS/HIS-考点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文化成就-板块式"
+              "title": "HIS-考点"
             },
             "group": "cf328c4be2f70211"
           }
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HIS/文化成就-板块式.md",
+                "file": "HIS/HIS-考点.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文化成就-板块式"
+              "title": "HIS-考点"
             },
             "group": "cf328c4be2f70211"
           }
@@ -245,6 +245,8 @@
   },
   "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
+    "HIS/文化成就-板块式.md",
+    "HIS/朝代概况.md",
     "HIS/09-02/HIS-09-02-重点问题默写.md",
     "HIS/09-02/HIS-09-02-重点问题默写.pdf",
     "Temp/T-2025-05-25.md",
@@ -257,10 +259,8 @@
     "CHS/K/K-20241201.md",
     "CHS/K/K-20250521.md",
     "CHS/K/K-20241124.md",
-    "HIS/文化成就-板块式.md",
     "HIS/中国古代史背默.md",
     "Temp/T-2025-06-02.md",
-    "HIS/朝代概况.md",
     "HIS/less/2025-05-18.md",
     "Temp/08.md",
     "conflict-files-obsidian-git.md",
