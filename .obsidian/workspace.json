@@ -6,7 +6,7 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 62.33062330623306,
+        "dimension": 79.8590130916415,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -27,7 +27,7 @@
       {
         "id": "6a8663a8eb3b5d59",
         "type": "tabs",
-        "dimension": 37.669376693766935,
+        "dimension": 20.14098690835851,
         "children": [
           {
             "id": "2e9203e4ab697288",
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e9203e4ab697288",
+  "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-01.md",
