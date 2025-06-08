@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5f3cd283a5279d",
+  "active": "2e9203e4ab697288",
   "lastOpenFiles": [
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-01.md",
