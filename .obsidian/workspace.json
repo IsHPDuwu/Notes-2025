@@ -76,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "一国两制",
-                "matchingCase": false,
+                "query": "::: 一",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -229,11 +229,11 @@
   },
   "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
-    "POL/sth_is_sth/07/07-01.md",
-    "POL/sth_is_sth/07/07-02.md",
-    "POL/sth_is_sth/07",
-    "POL/sth_is_sth/09/09-01.md",
     "POL/sth_is_sth/09/09-02.md",
+    "POL/sth_is_sth/09/09-01.md",
+    "POL/sth_is_sth/07/07-02.md",
+    "POL/sth_is_sth/07/07-01.md",
+    "POL/sth_is_sth/07",
     "POL/sth_is_sth/09",
     "POL/sth_is_sth/新建文件夹",
     "POL/sth_is_sth/data.md",
