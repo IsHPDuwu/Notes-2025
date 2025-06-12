@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/08-02.md",
+                "file": "POL/sth_is_sth/09-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-02"
+              "title": "09-02"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/08-02.md",
+                "file": "POL/sth_is_sth/09-02.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-02 的大纲"
+              "title": "09-02 的大纲"
             }
           }
         ]
@@ -227,14 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd845d0b8a054d8",
+  "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
-    "POL/sth_is_sth/09-02.md",
-    "POL/sth_is_sth/08-02.md",
-    "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
     "POL/sth_is_sth/07-01.md",
+    "POL/sth_is_sth/09-01.md",
+    "POL/sth_is_sth/09-02.md",
+    "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/data.md",
     "POL/民主协商、民主决策、民主管理.md",
     "POL/sth_is_sth/07",
