@@ -6,7 +6,7 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 82.24932249322492,
+        "dimension": 59.71867007672634,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -27,7 +27,7 @@
       {
         "id": "6a8663a8eb3b5d59",
         "type": "tabs",
-        "dimension": 17.750677506775066,
+        "dimension": 40.28132992327366,
         "children": [
           {
             "id": "2e9203e4ab697288",
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 200
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5f3cd283a5279d",
+  "active": "2e9203e4ab697288",
   "lastOpenFiles": [
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/08-01.md",
