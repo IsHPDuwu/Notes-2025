@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -227,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5f3cd283a5279d",
+  "active": "bbd845d0b8a054d8",
   "lastOpenFiles": [
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/08-02.md",
