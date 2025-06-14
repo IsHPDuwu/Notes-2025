@@ -58,6 +58,10 @@ def parse_md_files(directory, output_basename):
                     data_dict.setdefault(A, []).append({"data": B, "page": new_page})
                     # 为 B 添加条目
                     data_dict.setdefault(B, []).append({"data": A, "page": new_page})
+                else:
+                    # 如果 str 最后一位是数字，print
+                    if ":::" in line:
+                        print(f"Line not matched: {line.strip()} in {filename}")
         print(f"{filename} Processed {cnt} entries from {len(data_dict)} unique keys.")
     return data_dict
 
