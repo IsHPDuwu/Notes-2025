@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/08-01.md",
+                "file": "POL/sth_is_sth/08-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-01"
+              "title": "08-02"
             }
           }
         ],
@@ -64,13 +64,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/08-01.md",
+                "file": "POL/sth_is_sth/08-02.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-01 的大纲"
+              "title": "08-02 的大纲"
             }
           }
         ]
@@ -258,12 +258,12 @@
   },
   "active": "002fd28f5651df27",
   "lastOpenFiles": [
+    "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-01.md",
-    "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-01.md",
     "POL/民主协商、民主决策、民主管理.md",
     "POL/sth_is_sth/07",
