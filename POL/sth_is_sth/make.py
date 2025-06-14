@@ -81,7 +81,7 @@ def output_sorted_data_dict(data_dict, output_file, reverse_sort=False):
                 current_initial = header
             # 输出每个键下所有条目
             for entry in data_dict[key]:
-                line = f"{key} ::: {entry['data']} {entry['page']}"
+                line = f"{key} :: {entry['data']} {entry['page']}"
                 f.write(line + "\n\n")
 
 if __name__ == "__main__":

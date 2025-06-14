@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/08-02.md",
+                "file": "POL/sth_is_sth/data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-02"
+              "title": "data"
             }
           }
         ]
@@ -35,13 +35,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/08-02.md",
+                "file": "POL/sth_is_sth/data.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "08-02 的大纲"
+              "title": "data 的大纲"
             }
           }
         ]
@@ -76,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "党 path:POL  ",
-                "matchingCase": true,
+                "query": "(?<! ):::(?! )",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -97,11 +97,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 496.5
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -227,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de5f3cd283a5279d",
+  "active": "de6041147ac3ba1b",
   "lastOpenFiles": [
-    "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/08-02.md",
+    "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/07-01.md",
