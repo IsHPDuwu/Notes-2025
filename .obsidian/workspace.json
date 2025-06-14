@@ -112,11 +112,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 212.5
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -242,15 +243,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff5441ed856dcc2",
+  "active": "de6041147ac3ba1b",
   "lastOpenFiles": [
-    "POL/sth_is_sth/09-01.md",
+    "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/data.md",
+    "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
     "POL/sth_is_sth/07-01.md",
-    "POL/sth_is_sth/09-02.md",
     "POL/民主协商、民主决策、民主管理.md",
     "POL/sth_is_sth/07",
     "POL/sth_is_sth/09",

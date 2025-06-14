@@ -42,6 +42,7 @@ def parse_md_files(directory, output_basename):
         fname = os.path.splitext(filename)[0]
         filepath = os.path.join(directory, filename)
         with open(filepath, "r", encoding="utf-8") as file:
+            hash_map.clear()  # 清空哈希映射以避免跨文件重复
             for line in file:
                 line = line.strip()
                 # 忽略空行及 Markdown 标题行
@@ -58,6 +59,10 @@ def parse_md_files(directory, output_basename):
                     new_page = f"{fname}:{page}"
                     if (dt := hash_map.get(f"{A}:{B}",None)) is not None:
                         print(f"Duplicate entry found: {A} ::: {B} in {new_page} {dt}")
+                    else:
+                        hash_map[f"{A}:{B}"] = new_page
+                    if (dt := hash_map.get(f"{B}:{A}",None)) is not None:
+                        print(f"Duplicate entry found: {B} ::: {A} in {new_page} {dt}")
                     else:
                         hash_map[f"{A}:{B}"] = new_page
                     # 为 A 添加条目（字典中以列表保存重复项）
