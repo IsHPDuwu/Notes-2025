@@ -17,6 +17,8 @@ def parse_md_files(directory, output_basename):
     注意：directory中若有文件名与 output_basename 相同的文件，将不会被处理。
     """
     data_dict = {}
+    hash_map = {}
+
     # 正则表达式：
     # (?:\{)?(.+?)(?:\})?    匹配 A（允许有或无大括号）
     # \s*:::\s*              匹配分隔符 " ::: "（两边允许空白）
@@ -54,6 +56,10 @@ def parse_md_files(directory, output_basename):
                     cnt += 1
                     A, B, page = match.groups()
                     new_page = f"{fname}:{page}"
+                    if (dt := hash_map.get(f"{A}:{B}",None)) is not None:
+                        print(f"Duplicate entry found: {A} ::: {B} in {new_page} {dt}")
+                    else:
+                        hash_map[f"{A}:{B}"] = new_page
                     # 为 A 添加条目（字典中以列表保存重复项）
                     data_dict.setdefault(A, []).append({"data": B, "page": new_page})
                     # 为 B 添加条目
