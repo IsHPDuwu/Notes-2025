@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/data.md",
+                "file": "POL/sth_is_sth/09-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data"
+              "title": "09-01"
             }
           }
         ],
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/data.md",
+                "file": "POL/sth_is_sth/09-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "data 的大纲"
+              "title": "09-01 的大纲"
             }
           }
         ]
@@ -277,24 +277,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "002fd28f5651df27",
+  "active": "c80e6f268a485c93",
   "lastOpenFiles": [
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-01.pdf",
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-02.pdf",
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_07-02.pdf",
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_07-01.pdf",
+    "POL/sth_is_sth/output/watermarked_pdfs",
+    "POL/sth_is_sth/output/NotoSansSC-Regular.ttf",
+    "POL/sth_is_sth/output/wm.py",
+    "POL/sth_is_sth/output/新建文本文档.txt",
+    "POL/sth_is_sth/output/09-02.pdf",
+    "POL/sth_is_sth/output/08-02.pdf",
+    "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
-    "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/07-01.md",
     "POL/民主协商、民主决策、民主管理.md",
-    "POL/sth_is_sth/07",
-    "POL/sth_is_sth/09",
-    "POL/sth_is_sth/新建文件夹",
     "Temp/T-2025-05-25.md",
     "Temp/T-2025-06-02.md",
     "Temp/T-2025-05-18.md",
-    "HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.pdf",
-    "HIS/09-02/HIS-09-02-U6 走向和平发展的世界-L21 冷战后的世界格局.pdf",
     "HIS/HIS-考点.md",
     "HIS/HIS-12-05-2024.md",
     "HIS/中国古代史背默.md",
@@ -309,11 +315,6 @@
     "Temp/06.md",
     "Temp/07.md",
     "Temp/09-02-E5 时间安排表.md",
-    "dbghelp1.dll",
-    "POL/sth_is_sth/make.py",
-    "POL/sth_is_sth/新建文本文档.txt",
-    "HIS/09-02/HIS-09-02-重点问题默写.pdf",
-    "HIS/less",
     "attachment/Pasted image 20250505100442.png",
     "attachment/Pasted image 20250505100127.png",
     "attachment/Pasted image 20250505095957.png",
