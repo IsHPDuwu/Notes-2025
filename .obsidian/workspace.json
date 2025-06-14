@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(?<! ):::(?! )",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -97,8 +97,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,12 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de6041147ac3ba1b",
+  "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
     "POL/sth_is_sth/08-02.md",
+    "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/09-01.md",
-    "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/07-01.md",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/07-02.md",

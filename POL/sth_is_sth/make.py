@@ -24,7 +24,7 @@ def parse_md_files(directory, output_basename):
     # \s+(\S+)               匹配 Page（至少一个空格后的非空字符）
     pattern = re.compile(r"(?:\{)?(.+?)(?:\})?\s*:::\s*(?:\{)?(.+?)(?:\})?\s+(\S+)")
     
-    # 如果指定的 directory 不是目录，则使用脚本所在的目录
+    # 如果指定的 directory 不目录，则使用脚本所在的目录
     if not os.path.isdir(directory):
         directory = os.path.dirname(os.path.abspath(__file__))
     
@@ -86,7 +86,7 @@ def output_sorted_data_dict(data_dict, output_file, reverse_sort=False):
 
 if __name__ == "__main__":
     # 请将目录路径替换为你的 .md 文件所在目录，
-    # 如果留空或指定的不是目录，则将使用当前脚本所在目录。
+    # 如果留空或指定的不目录，则将使用当前脚本所在目录。
     directory = "."
     output_file = "data.md"
     
