@@ -3,70 +3,75 @@
     "zz": {
       "value": "<政>",
       "isEnabled": true,
-      "position": 12,
+      "position": 13,
       "isCaseSensitive": true
     },
     "jj": {
       "value": "<经>",
       "isEnabled": true,
-      "position": 11
+      "position": 12
     },
     "ww": {
       "value": "<文>",
       "isEnabled": true,
-      "position": 10
+      "position": 11
     },
     "mm": {
       "value": "<民>",
       "isEnabled": true,
-      "position": 8
+      "position": 9
     },
     "aa": {
       "value": "<军>",
       "isEnabled": true,
-      "position": 9
+      "position": 10
     },
     "ss": {
       "value": "<思>",
       "isEnabled": true,
-      "position": 6
+      "position": 7
     },
     "<": {
       "value": "<>",
       "isEnabled": true,
-      "position": 7
+      "position": 8
     },
     "|": {
       "value": "\\",
       "isEnabled": true,
-      "position": 5,
+      "position": 6,
       "isCaseSensitive": true
     },
     "note.": {
       "value": "> [!NOTE]",
       "isEnabled": true,
-      "position": 4
+      "position": 5
     },
     "warn.": {
       "value": "> [!WARNING]",
       "isEnabled": true,
-      "position": 3
+      "position": 4
     },
     "err.": {
       "value": "> [!ERROR]",
       "isEnabled": true,
-      "position": 2
+      "position": 3
     },
     "cpc.": {
       "value": "中国共产党",
       "isEnabled": true,
-      "position": 1
+      "position": 2
     },
     "prc.": {
       "value": "中华人民共和国",
       "isEnabled": true,
-      "position": 0,
+      "position": 1,
       "isCaseSensitive": true
+    },
+    "is": {
+      "value": ":::",
+      "isEnabled": true,
+      "position": 0
     }
   }
 }
