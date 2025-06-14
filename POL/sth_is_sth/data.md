@@ -1,4 +1,4 @@
-#flashcard/Temp 
+#flashcard/POL/all 
 
 # 爱
 

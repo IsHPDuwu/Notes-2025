@@ -6,7 +6,7 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 58.876117496807154,
+        "dimension": 76.10513739545998,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -27,7 +27,7 @@
       {
         "id": "6a8663a8eb3b5d59",
         "type": "tabs",
-        "dimension": 41.123882503192846,
+        "dimension": 23.894862604540023,
         "children": [
           {
             "id": "2e9203e4ab697288",
@@ -207,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,13 +229,13 @@
   },
   "active": "de5f3cd283a5279d",
   "lastOpenFiles": [
+    "POL/sth_is_sth/data.md",
+    "POL/sth_is_sth/07-01.md",
+    "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
-    "POL/sth_is_sth/07-01.md",
     "POL/sth_is_sth/09-01.md",
-    "POL/sth_is_sth/08-02.md",
-    "POL/sth_is_sth/data.md",
     "POL/民主协商、民主决策、民主管理.md",
     "POL/sth_is_sth/07",
     "POL/sth_is_sth/09",
