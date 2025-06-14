@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/09-01.md",
+                "file": "POL/sth_is_sth/07-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-01"
+              "title": "07-01"
             }
           }
         ],
@@ -85,13 +85,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/09-01.md",
+                "file": "POL/sth_is_sth/07-01.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "09-01 的大纲"
+              "title": "07-01 的大纲"
             }
           }
         ]
@@ -277,8 +277,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd845d0b8a054d8",
+  "active": "002fd28f5651df27",
   "lastOpenFiles": [
+    "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_data.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-02.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-01.pdf",
@@ -289,13 +290,11 @@
     "POL/sth_is_sth/output/watermarked_pdfs",
     "POL/sth_is_sth/output/NotoSansSC-Regular.ttf",
     "POL/sth_is_sth/output/wm.py",
-    "POL/sth_is_sth/output/新建文本文档.txt",
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
-    "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/07-01.md",
     "POL/民主协商、民主决策、民主管理.md",
     "Temp/T-2025-05-25.md",
