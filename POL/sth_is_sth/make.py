@@ -29,6 +29,7 @@ def parse_md_files(directory, output_basename):
         directory = os.path.dirname(os.path.abspath(__file__))
     
     for filename in os.listdir(directory):
+        cnt = 0
         # 跳过输出文件（如 "data.md"）
         if filename == output_basename:
             continue
@@ -48,13 +49,16 @@ def parse_md_files(directory, output_basename):
                 if ":-:" in line:
                     continue
                 match = pattern.match(line)
+                # print(f"Processing line:, match {match}")  # 调试输出
                 if match:
+                    cnt += 1
                     A, B, page = match.groups()
                     new_page = f"{fname}:{page}"
                     # 为 A 添加条目（字典中以列表保存重复项）
                     data_dict.setdefault(A, []).append({"data": B, "page": new_page})
                     # 为 B 添加条目
                     data_dict.setdefault(B, []).append({"data": A, "page": new_page})
+        print(f"{filename} Processed {cnt} entries from {len(data_dict)} unique keys.")
     return data_dict
 
 def output_sorted_data_dict(data_dict, output_file, reverse_sort=False):

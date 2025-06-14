@@ -1,4 +1,3 @@
-#flashcard/POL/all
 
 # 1
 
