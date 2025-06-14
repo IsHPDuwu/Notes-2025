@@ -112,8 +112,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de6041147ac3ba1b",
+  "active": "c80e6f268a485c93",
   "lastOpenFiles": [
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/data.md",
