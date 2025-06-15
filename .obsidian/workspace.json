@@ -40,14 +40,17 @@
             "id": "002fd28f5651df27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Temp/T-2025-05-25.md",
-                "mode": "source",
-                "source": false
+                "file": "HIS/08-02/HIS-08-02-canvas.canvas",
+                "viewState": {
+                  "x": 2103.022705792457,
+                  "y": -664.2704558627267,
+                  "zoom": -1.503909376973743
+                }
               },
-              "icon": "lucide-file",
-              "title": "T-2025-05-25"
+              "icon": "lucide-layout-dashboard",
+              "title": "HIS-08-02-canvas"
             }
           }
         ],
@@ -64,13 +67,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/T-2025-05-25.md",
+                "file": "HIS/08-02/HIS-08-02-canvas.canvas",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "T-2025-05-25 的大纲"
+              "title": "HIS-08-02-canvas 的大纲"
             }
           }
         ]
@@ -258,8 +261,8 @@
   },
   "active": "002fd28f5651df27",
   "lastOpenFiles": [
-    "Temp/T-2025-05-18.md",
     "Temp/T-2025-05-25.md",
+    "Temp/T-2025-05-18.md",
     "POL/宪法宣誓誓词.md",
     "Temp/T-2025-06-02.md",
     "POL/sth_is_sth/data.md",
