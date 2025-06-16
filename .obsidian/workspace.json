@@ -40,17 +40,14 @@
             "id": "002fd28f5651df27",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "HIS/08-02/HIS-08-02-canvas.canvas",
-                "viewState": {
-                  "x": 4172,
-                  "y": -869.5,
-                  "zoom": 0
-                }
+                "file": "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "HIS-08-02-canvas"
+              "icon": "lucide-file",
+              "title": "HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展"
             }
           }
         ],
@@ -67,13 +64,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HIS/08-02/HIS-08-02-canvas.canvas",
+                "file": "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HIS-08-02-canvas 的大纲"
+              "title": "HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展 的大纲"
             }
           }
         ]
@@ -261,6 +258,20 @@
   },
   "active": "002fd28f5651df27",
   "lastOpenFiles": [
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.pdf",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.md",
+    "HIS/09-02/HIS-09-02-L18 社会主义的发展和挫折.pdf",
+    "HIS/09-02/HIS-09-02-重点问题默写.pdf",
+    "HIS/09-02/HIS-09-02-重点问题默写.md",
+    "HIS/08-02/HIS-08-02-重点重点重点默写.md",
+    "HIS/08-02/HIS-08-02-U1 中华人民共和国的建立与巩固-L1 中华人民共和国成立.md",
+    "Temp/mth.md",
+    "HIS/08-01/HIS-08-01-U7 人民解放战争 - L24 人民解放战争的胜利.md",
+    "HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
+    "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L02 第二次鸦片战争.md",
+    "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
+    "HIS/08-01/HIS-08-01-重点问题默写.md",
+    "HIS/08-02/HIS-08-02-canvas.canvas",
     "Temp/T-2025-05-25.md",
     "Temp/T-2025-05-18.md",
     "POL/宪法宣誓誓词.md",
@@ -275,9 +286,6 @@
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_07-02.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_07-01.pdf",
-    "POL/sth_is_sth/output/watermarked_pdfs",
-    "POL/sth_is_sth/output/NotoSansSC-Regular.ttf",
-    "POL/sth_is_sth/output/wm.py",
     "POL/sth_is_sth/09-02.md",
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/08-01.md",
@@ -287,16 +295,6 @@
     "HIS/HIS-12-05-2024.md",
     "HIS/中国古代史背默.md",
     "HIS/文化成就-板块式.md",
-    "文言文实词.md",
-    "Temp/08.md",
-    "Temp/01.md",
-    "Temp/02.md",
-    "Temp/03.md",
-    "Temp/04.md",
-    "Temp/05.md",
-    "Temp/06.md",
-    "Temp/07.md",
-    "Temp/09-02-E5 时间安排表.md",
     "attachment/Pasted image 20250505100442.png",
     "attachment/Pasted image 20250505100127.png",
     "attachment/Pasted image 20250505095957.png",
@@ -307,7 +305,6 @@
     "attachment/Pasted image 20250505095152.png",
     "attachment/Pasted image 20250505095126.png",
     "attachment/Pasted image 20250504184403.png",
-    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas",
-    "HIS/08-02/HIS-08-02-canvas.canvas"
+    "HIS/07-02/HIS-07-02-U1 隋唐时期+繁荣与开发的时代-L1 隋朝的统一与灭亡-大运河.canvas"
   ]
 }
