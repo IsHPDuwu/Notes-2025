@@ -6,7 +6,7 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 76.86298076923077,
+        "dimension": 38.43149038461539,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -52,6 +52,27 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "d7e9ac69ec921f28",
+        "type": "tabs",
+        "dimension": 38.43149038461539,
+        "children": [
+          {
+            "id": "9de3c56113a5de7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POL/政治必胜之诀.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "政治必胜之诀"
+            }
+          }
+        ]
       },
       {
         "id": "6a8663a8eb3b5d59",
