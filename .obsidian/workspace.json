@@ -26,12 +26,14 @@
             "id": "3ff5441ed856dcc2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf"
+                "file": "HIS/世界古代史基本点.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "watermarked_08-01"
+              "icon": "lucide-file",
+              "title": "世界古代史基本点"
             }
           }
         ],
@@ -48,13 +50,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
+                "file": "HIS/世界古代史基本点.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "watermarked_08-01 的大纲"
+              "title": "世界古代史基本点 的大纲"
             }
           }
         ]
@@ -242,6 +244,13 @@
   },
   "active": "3ff5441ed856dcc2",
   "lastOpenFiles": [
+    "HIS/中国古代史背默.md",
+    "HIS/世界古代史基本点.md",
+    "HIS/HIS-12-05-2024.md",
+    "HIS/文化成就-板块式.md",
+    "HIS/朝代概况.md",
+    "HIS/08-01/HIS-08-01-重点问题默写.md",
+    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-02.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-02.pdf",
     "POL/sth_is_sth/output/07-01.pdf",
@@ -262,7 +271,6 @@
     "HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
     "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L02 第二次鸦片战争.md",
     "HIS/08-01/HIS-08-01-U1 中国开始沦为半殖民地半封建社会-L01 鸦片战争.md",
-    "HIS/08-01/HIS-08-01-重点问题默写.md",
     "HIS/08-02/HIS-08-02-canvas.canvas",
     "Temp/T-2025-05-25.md",
     "Temp/T-2025-05-18.md",
@@ -272,13 +280,7 @@
     "POL/sth_is_sth/09-01.md",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_data.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-01.pdf",
-    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
-    "POL/sth_is_sth/output/watermarked_pdfs/watermarked_07-02.pdf",
     "POL/sth_is_sth/08-02.md",
-    "POL/sth_is_sth/08-01.md",
-    "POL/sth_is_sth/07-02.md",
-    "HIS/HIS-考点.md",
-    "HIS/HIS-12-05-2024.md",
     "attachment/Pasted image 20250505100442.png",
     "attachment/Pasted image 20250505100127.png",
     "attachment/Pasted image 20250505095957.png",

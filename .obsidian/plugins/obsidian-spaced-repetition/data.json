@@ -1,7 +1,8 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcard"
+      "#flashcard",
+      "#fc"
     ],
     "convertFoldersToDecks": false,
     "burySiblingCards": false,
@@ -42,6 +43,7 @@
     "flashcardGoodText": "记得",
     "flashcardHardText": "较难",
     "reviewButtonDelay": 0,
+    "openViewInNewTab": false,
     "algorithm": "SM-2-OSR",
     "baseEase": 250,
     "lapsesIntervalChange": 0.5,
