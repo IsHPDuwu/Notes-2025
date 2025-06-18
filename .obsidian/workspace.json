@@ -6,7 +6,6 @@
       {
         "id": "51c348f3acac5ee6",
         "type": "tabs",
-        "dimension": 62.420693020985844,
         "children": [
           {
             "id": "de5f3cd283a5279d",
@@ -38,28 +37,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "6a8663a8eb3b5d59",
-        "type": "tabs",
-        "dimension": 37.579306979014156,
-        "children": [
-          {
-            "id": "2e9203e4ab697288",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "HIS/世界古代史基本点.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "世界古代史基本点 的大纲"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
