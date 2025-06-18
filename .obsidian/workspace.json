@@ -92,11 +92,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#flashcard",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -113,7 +113,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff5441ed856dcc2",
+  "active": "de6041147ac3ba1b",
   "lastOpenFiles": [
     "HIS/文化成就-板块式.md",
     "HIS/09-01/HIS-09-01-重点问题默写.md",
