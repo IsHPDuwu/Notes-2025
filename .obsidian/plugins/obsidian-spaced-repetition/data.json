@@ -8,7 +8,7 @@
     "burySiblingCards": false,
     "randomizeCardOrder": null,
     "flashcardCardOrder": "DueFirstRandom",
-    "flashcardDeckOrder": "PrevDeckComplete_Sequential",
+    "flashcardDeckOrder": "PrevDeckComplete_Random",
     "convertHighlightsToClozes": true,
     "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": false,
