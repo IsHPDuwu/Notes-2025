@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/政治必胜之诀.md",
+                "file": "POL/民主协商、民主决策、民主管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "政治必胜之诀"
+              "title": "民主协商、民主决策、民主管理"
             },
             "group": "6836282460398c58"
           }
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POL/政治必胜之诀.md",
+                "file": "POL/民主协商、民主决策、民主管理.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "政治必胜之诀"
+              "title": "民主协商、民主决策、民主管理"
             },
             "group": "6836282460398c58"
           }
@@ -87,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POL/政治必胜之诀.md",
+                "file": "POL/民主协商、民主决策、民主管理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "政治必胜之诀 的大纲"
+              "title": "民主协商、民主决策、民主管理 的大纲"
             }
           }
         ]
@@ -279,10 +279,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "002fd28f5651df27",
+  "active": "9de3c56113a5de7b",
   "lastOpenFiles": [
-    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
+    "POL/宪法宣誓誓词.md",
+    "POL/民主协商、民主决策、民主管理.md",
     "POL/政治必胜之诀.md",
+    "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L19 亚非拉国家的新发展.md",
     "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.pdf",
     "HIS/09-02/HIS-09-02-U5 二战后的世界变化-L18 社会主义的发展和挫折.md",
     "HIS/09-02/HIS-09-02-L18 社会主义的发展和挫折.pdf",
@@ -299,7 +301,6 @@
     "HIS/08-02/HIS-08-02-canvas.canvas",
     "Temp/T-2025-05-25.md",
     "Temp/T-2025-05-18.md",
-    "POL/宪法宣誓誓词.md",
     "Temp/T-2025-06-02.md",
     "POL/sth_is_sth/data.md",
     "POL/sth_is_sth/07-01.md",
@@ -314,7 +315,6 @@
     "POL/sth_is_sth/08-02.md",
     "POL/sth_is_sth/08-01.md",
     "POL/sth_is_sth/07-02.md",
-    "POL/民主协商、民主决策、民主管理.md",
     "HIS/HIS-考点.md",
     "HIS/HIS-12-05-2024.md",
     "HIS/中国古代史背默.md",
