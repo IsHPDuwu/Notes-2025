@@ -131,5 +131,16 @@ opp.-> introverted adj. 内向的
 impress v. 给 sb. 留下一个好印象
 
 + make/leave an impression 留下好印象
++ be impressed by/with sth. 对 sth. 印象深刻
 
--> impression n. 
+-> impression n. 印象
+
++ make an impression on sb./sth. 给 sb./sth. 留下好印象
+
+-> impressive adj. 印象深刻的
+
+---
+
+guy n. 小伙子
+
+buddy 
