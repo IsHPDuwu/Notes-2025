@@ -143,4 +143,17 @@ impress v. 给 sb. 留下一个好印象
 
 guy n. 小伙子
 
-buddy 
+buddy n. 伙伴
+
+---
+
+concentrate v. 集中注意力
+
++ concentrate on sth. 在 sth. 上集中注意力
+	+ == fix one's attention on sth.
+	+ == be buried in sth.
+	+ == be lost in sth.
+
+-> concentrated adj. 聚精会神的
+
+-> concentration n. 注意力
