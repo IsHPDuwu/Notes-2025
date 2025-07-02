@@ -126,3 +126,10 @@ outgoing adj. 外向的
 
 opp.-> introverted adj. 内向的
 
+---
+
+impress v. 给 sb. 留下一个好印象
+
++ make/leave an impression 留下好印象
+
+-> impression n. 
