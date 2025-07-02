@@ -100,4 +100,29 @@ annoy vt. 打扰
 
 fright n. 害怕
 
--> fright
+-> frighten v. 使惊吓
+
+-> frightened adj. 惊吓的；害怕的
+
++ be frightened of sth.
++ be frightened to do sth.
+
+---
+
+senior
+
+n. 年长的人
+
++ *e.g. a senior*
+
+adj. 级别高的
+
++ *e.g. a senior citizen 一位老年人*
++ be senior to sb. 比 sb. 年长
+
+---
+
+outgoing adj. 外向的
+
+opp.-> introverted adj. 内向的
+
