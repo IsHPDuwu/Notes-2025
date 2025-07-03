@@ -159,8 +159,30 @@ concentrate v. 集中注意力
 -> concentration n. 注意力
 
 ---
-exper
+experiment
 
--> experiment n. 实验
+n. 实验
 
 + experiment on sb./sth. 在 sb./sth. 上实验
+
+v. 实验 
+
++ experiment with sb. 用 sb. 实验
+
+---
+
+leave sb. alone 不打扰 sb.；不惊动 sb.
+
+---
+
+awkward adj. 令人尴尬的
+
++ *e.g. an awkward excuse 一个拙劣的借口*
++ be awkward about sth. 尴尬于 sth.
+
+-> awkwardly adv. 尴尬地
+
+-> awkwardment n. 尴尬
+
+---
+
