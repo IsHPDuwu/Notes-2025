@@ -141,8 +141,7 @@ impress v. 给 sb. 留下一个好印象
 
 ---
 
-guy n. 小伙子
-
+guy n. 小伙子  
 buddy n. 伙伴
 
 ---
@@ -183,6 +182,46 @@ awkward adj. 令人尴尬的
 -> awkwardly adv. 尴尬地
 
 -> awkwardment n. 尴尬
+
+---
+
+junior adj. 职位低下的
+
++ be junior to sb. 比 sb. 职位低下
++ junior high school 初中
+
+---
+
+explore v. 探索
+
+-> explorer n. 探索者
+
+-> exploration n. 探索
+
+---
+
+confident adj. 自信的；有把握的
+
++ be confident of/about doing sth. 对 do sth. 有自信
+
+opp.-> diffident adj. 自卑的
+
+-> confidence n. 信心
+
++ confidence in sth. 对 sth. 有信心
+
+---
+
+forward adv./adj. 向前  
+eastward adv./adj. 向东  
+backward adv./adj. 向后  
+stepward adv./adj. 向前一步  
+afterward adv. (== then) 然后 
+
+---
+
+take notes of sth. 做 sth. 的笔记  
+compare notes 交换意见
 
 ---
 
