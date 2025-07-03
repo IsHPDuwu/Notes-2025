@@ -225,3 +225,10 @@ compare notes 交换意见
 
 ---
 
+flash n. 光；信号 v. 闪耀
+
++ flashlight 闪光灯；手电筒
++ flash card 教学卡片
+
+torch n. 手电筒；火炬
+
