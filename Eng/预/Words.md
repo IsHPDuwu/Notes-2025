@@ -157,3 +157,10 @@ concentrate v. 集中注意力
 -> concentrated adj. 聚精会神的
 
 -> concentration n. 注意力
+
+---
+exper
+
+-> experiment n. 实验
+
++ experiment on sb./sth. 在 sb./sth. 上实验
