@@ -232,3 +232,22 @@ flash n. 光；信号 v. 闪耀
 
 torch n. 手电筒；火炬
 
+---
+
+organize v. 组织
+
+-> organization n. 组织
+
+-> organized adj. 有组织的
+
+-> organizer n. 组织者
+
+---
+
+goal n. 目标；射门
+
++ set a goal 设定一个目标
++ score/kick a goal 进球
+
+syn. -> purpose/aim
+
