@@ -12,3 +12,4 @@ efficient adj. 高效的
 
 ---
 
+potential
