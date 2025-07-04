@@ -321,8 +321,9 @@ brilliant adj. 聪颖的
 
 ---
 
-custom n. 习俗
-
--> customer n. 顾客
-
--> costume adj. 
+custom n. 习俗  
+customer n. 顾客  
+costume n. 戏服  
+customs n. 海关  
+consume v. 消费  
+consumer n. 消费者
