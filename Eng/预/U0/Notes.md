@@ -12,4 +12,9 @@ efficient adj. 高效的
 
 ---
 
-potential
+potential n. 潜能
+
+---
+
+orientation n. 训练
+
