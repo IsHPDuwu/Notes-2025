@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/Words.md",
+                "file": "Eng/预/U0/Words.md",
                 "mode": "source",
                 "source": false
               },
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/Words.md",
+                "file": "Eng/预/U0/Words.md",
                 "mode": "preview",
                 "source": false
               },
@@ -226,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd845d0b8a054d8",
+  "active": "c80e6f268a485c93",
   "lastOpenFiles": [
-    "Eng/预/Notes.md",
-    "Eng/预/Words.md",
+    "Eng/预/U0",
+    "Eng/预/U0/Notes.md",
+    "Eng/预/U0/Words.md",
     "25/文言文实词.md",
     "25/09-01-E5.pdf",
     "Eng/未命名.md",
@@ -256,7 +257,6 @@
     "Temp/07.md",
     "HIS/文化成就-板块式.md",
     "HIS/09-01/HIS-09-01-重点问题默写.md",
-    "HIS/中国古代史背默.md",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-01.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_08-02.pdf",
     "POL/sth_is_sth/output/watermarked_pdfs/watermarked_09-02.pdf",

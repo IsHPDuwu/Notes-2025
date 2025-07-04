@@ -1,5 +1,3 @@
-# Words
-
 exchange 
 
 n. 交换；交流
@@ -250,4 +248,45 @@ goal n. 目标；射门
 + score/kick a goal 进球
 
 syn. -> purpose/aim
+
+---
+
+strategy n. 策略；策划
+
+-> strategic adj. 有策略的
+
++ strategic target 战略目标
++ strategic management 战略管理
+
+---
+
+partner n. 同伙；搭档
+
+---
+
+improve v. 改进；改善
+
++ improve my living condition 改善我的生活条件
+
+---
+
+curious adj. 好奇的
+
++ be curious about sth. 对 sth. 感到好奇
+
+curiousity n. 好奇心
+
++ out of curiousity 出于好奇心
++ satisfy one's curiousity 满足 sb. 的好奇心
+
+---
+
+company n. 公司；==陪伴==
+
++ keep sb. company 在 sb. 的陪伴下
++ in the company of sb. 在 sb. 的陪伴下
+
+-> accompany vt. 陪伴
+
+---
 
