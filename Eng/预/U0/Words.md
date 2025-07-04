@@ -290,3 +290,28 @@ company n. 公司；==陪伴==
 
 ---
 
+personality n. 性格；个性
+
+private adj. 私人的
+
+-> privacy n. 隐私
+
+---
+
+style n. 方式；作风
+
++ in style 时髦的
++ out of style 过时的
+
+-> stylish adj. 时髦的；现代风格的
+
+---
+
+revise v. 修改；修订
+
++ *revise your essay 改你的作文*
+
+-> revision n. 修改
+
+---
+
