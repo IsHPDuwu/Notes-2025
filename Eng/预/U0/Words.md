@@ -315,3 +315,14 @@ revise v. 修改；修订
 
 ---
 
+brilliant adj. 聪颖的
+
+-> brilliance n. 才华
+
+---
+
+custom n. 习俗
+
+-> customer n. 顾客
+
+-> costume adj. 
