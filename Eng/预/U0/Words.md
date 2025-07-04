@@ -213,7 +213,7 @@ opp.-> diffident adj. 自卑的
 forward adv./adj. 向前  
 eastward adv./adj. 向东  
 backward adv./adj. 向后  
-stepward adv./adj. 向前一步  
+step forward 向前一步  
 afterward adv. (== then) 然后 
 
 ---
