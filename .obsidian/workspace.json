@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/U0/Notes.md",
+                "file": "Eng/预/U1/Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Words"
             },
             "group": "a12e3c3bf32b6b29"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/U0/Notes.md",
+                "file": "Eng/预/U1/Words.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Words"
             },
             "group": "a12e3c3bf32b6b29"
           }
@@ -228,10 +228,11 @@
   },
   "active": "0c4ad5656c600eda",
   "lastOpenFiles": [
+    "Eng/预/U0/Notes.md",
+    "Eng/预/U1/Words.md",
     "Eng/预/U0/Words.md",
     "Eng/预/U1",
     "Eng/预/U0",
-    "Eng/预/U0/Notes.md",
     "25/文言文实词.md",
     "25/09-01-E5.pdf",
     "Eng/未命名.md",

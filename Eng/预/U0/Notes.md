@@ -21,3 +21,32 @@ orientation n. 训练
 ---
 
 election n. 竞选
+
+---
+
+forture n. 运气；财富
+
+---
+
+colleague n. 同事
+
+---
+
+plain n. 平原；adj. 清晰的
+
+---
+
+announce v. 宣布
+
+---
+
+be present at 出席
+
+---
+
+desire n. 欲望
+
+---
+
+escape v. 逃跑
+
