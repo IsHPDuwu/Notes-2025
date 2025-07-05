@@ -18,3 +18,6 @@ potential n. 潜能
 
 orientation n. 训练
 
+---
+
+election n. 竞选
