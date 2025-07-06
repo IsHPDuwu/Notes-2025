@@ -15,5 +15,5 @@ n. 志愿者
 
 ---
 
-debate 
+debate n. 辩论
 
