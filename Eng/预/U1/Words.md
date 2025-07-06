@@ -146,4 +146,22 @@ advance n. 发展；进步
 + in advance of sth. 在 sth. 之前
 + make [an advance]/progress in sth. 在 sth. 方面取得进展
 
--> advance
+-> advanced adj. 高级的
+
++ advanced technology 高科技
++ advanced literature 高等文学
+
+----
+
+extra adj. 额外的
+
++ extra income 额外收入
+	+ wage 日薪；salary 薪水；bouns 奖金
++ extra-curricular adj. 课程以外的
+
+---
+
+quit v. 停止；离开
+
++ quit school 辍学
++ 
