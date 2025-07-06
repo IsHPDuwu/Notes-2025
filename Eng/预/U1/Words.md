@@ -164,4 +164,6 @@ extra adj. 额外的
 quit v. 停止；离开
 
 + quit school 辍学
++ quit as sth. 辞去 sth. 的职务
++ quit one's job 辞职
 + 
