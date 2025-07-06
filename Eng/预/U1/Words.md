@@ -113,3 +113,37 @@ frequency n. 频繁
 
 ---
 
+recommend v. 介绍
+
++ recommend sb. to sb. 把 sb. 介绍给 sb.
++ recommend sb. as/for sth. 推荐 sb. 为 sth.
+	+ *e.g. I recommended him as mannager of Sales Department*
+
+-> recommendation n. 介绍
+
+recommend v. 建议 (advise)
+
++ recommend sb. to do sth.
++ recommend that sb. (should) do sth.
+
+opp.-> propose v. 提建议 (proposal n. 建议)
+
+---
+
+sign n. 标志
+
+sign v. 签字
+
++ sign up (for sth.) 注册 sth.
+
+-> signaturn n. 签字
+
+---
+
+advance n. 发展；进步
+
++ in advance = ahead of time 提前
++ in advance of sth. 在 sth. 之前
++ make [an advance]/progress in sth. 在 sth. 方面取得进展
+
+-> advance
