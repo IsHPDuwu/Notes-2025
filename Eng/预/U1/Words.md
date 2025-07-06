@@ -57,3 +57,59 @@ greenhouse effect 温室效应
 
 ---
 
+suit v. 适合
+
+-> suitable adj. 适合的
+
++ be suitable for sth. 适合 sth.
+
+-> suitablity n. 适合
+
+---
+
+actually == truly == in fact == as a matter of fact == indeed
+
+---
+
+challenge 
+
+v. 挑战
+
++ challenge sb. to do sth. 挑战 sb. do sth.
+
+n. 挑战
+
++ face challenges 面对挑战
++ meet challenges 迎接挑战
++ accept/take up a challenge 接受挑战
+
+---
+
+topic n. 话题
+
++ topic of sth. 关于 sth. 的话题
+
+---
+
+confuse v. 使迷惑
+
+-> confused adj. 迷惑的
+
++ be confused about sth. 对 sth. 感到困惑
+
+-> confusion n. 困惑；糊涂
+
+---
+
+fluent adj. 流利的
+
+-> fluency n. 流利
+
+---
+
+frequent adj. 频繁的
+
+frequency n. 频繁
+
+---
+
