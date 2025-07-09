@@ -165,5 +165,8 @@ quit v. 停止；离开
 
 + quit school 辍学
 + quit as sth. 辞去 sth. 的职务
+	+ *e.g. quit as captain* <mark style="background: #39C5BBA6;">唯一的职务用 0.art.</mark>
 + quit one's job 辞职
-+ 
++ quit doing sth.
+	+ *e.g. I expected that you would quit compalaining(*v.抱怨*) and foucus on what you were doing*
+	+ 
