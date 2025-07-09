@@ -168,5 +168,31 @@ quit v. 停止；离开
 	+ *e.g. quit as captain* <mark style="background: #39C5BBA6;">唯一的职务用 0.art.</mark>
 + quit one's job 辞职
 + quit doing sth.
-	+ *e.g. I expected that you would quit compalaining(*v.抱怨*) and foucus on what you were doing*
-	+ 
+	+ *e.g. I expected that you would quit compalaining*(v.抱怨)* and foucus on what you were doing*
+
+----
+
+response v. 负责
+
+-> responsible adj. 负责任的
+
++ be responsible for sth. 对 sth. 负责
+
+opp.-> irresponsible adj. 不负责任的
+
+-> responsiblity n. 责任
+
++ take/shoulder one's responsiblity 承担 sb. 的责任
+
+---
+
+solve v. 解决
+
+-> solution n. 解决方案
+
++ the solution to sth. sth. 的解决方案
+
+solute n. 溶质
+
+---
+
