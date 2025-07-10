@@ -196,3 +196,36 @@ solute n. 溶质
 
 ---
 
+schedule
+
+n. 计划
+
++ ahead of schedule 提前
++ behind schedule 推迟
++ on schedule = on time 准时的
+
+v. 安排；预定
+
++ be scheduled to do sth. 预定 do sth.
++ be scheduled for st. 安排在 st.
+
+---
+
+edit v. 编辑
+
+-> editor n. 编辑者
+
++ editor-in-chief 主编
+
+chief n. 首领，头目
+
+chef n. 主厨
+
+---
+
+adventure n. 冒险
+
+-> adventurous adj. 有冒险精神的
+
+---
+
