@@ -144,3 +144,10 @@ distincive adj. 有特色的
 
 ---
 
+path n. 路径
+
++ career path 职业路径
+
+access n. 道路
+
+route n. 道路
