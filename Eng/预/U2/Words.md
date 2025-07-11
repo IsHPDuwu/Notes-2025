@@ -108,5 +108,26 @@ be beyond control 在掌控之外
 
 recognize v. 承认；认可
 
-+ recognize / consider / treat / think of / look on / regard sb. as sth. 把 sth. shisth.
-+ 
++ recognize / consider / treat / think of / look on / regard sb. as sth. 把 sth. 视为 sth.
++ it's recognized that ... 人们普遍认为 ...
+
+recognition n. 辨识度
+
+---
+
+type n. 种类 (=sort n. 种类；v. 分类)
+
+type v. 打字
+
++ typewriter n. 打字机
++ typ==ist== n. 打字员
+
+---
+
+flight n. 航班
+
+fight v. 打架
+
+---
+
+accommodate v. 为（某人）提供住宿
