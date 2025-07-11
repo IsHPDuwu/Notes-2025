@@ -111,7 +111,7 @@ recognize v. 承认；认可
 + recognize / consider / treat / think of / look on / regard sb. as sth. 把 sth. 视为 sth.
 + it's recognized that ... 人们普遍认为 ...
 
-recognition n. 辨识度
+-> recog==nition== n. 辨识度
 
 ---
 
@@ -130,4 +130,17 @@ fight v. 打架
 
 ---
 
-accommodate v. 为（某人）提供住宿
+accommodate v. 为提供住宿
+
+-> accommoda==tion== n. 住宿
+
+---
+
+unique adj. 独特的
+
++ be unique <mark style="background: #39C5BBA6;">to</mark> sth. 是 sth. 独有的
+
+distincive adj. 有特色的
+
+---
+
