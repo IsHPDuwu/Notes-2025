@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "22bd4a0d59d5fcc7",
@@ -226,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c4ad5656c600eda",
+  "active": "cb9070b5c1af9f4b",
   "lastOpenFiles": [
     "Eng/预/U1/Words.md",
     "Eng/预/U2/Words.md",

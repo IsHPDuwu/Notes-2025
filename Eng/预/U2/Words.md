@@ -74,6 +74,10 @@ flat n. 公寓 （\== department)
 
 ---
 
+power n. 权力
+
+-> power==ful== adj. 有权利的
+
 influence n. 影响
 
 -> influen==tial== adj. 有影响的
@@ -83,3 +87,26 @@ affect v. 影响；感激，喜欢
 -> affection n. 影响
 
 effect n. 影响
+
+---
+
+empire n. 帝国
+
+emperor n. 皇帝
+
+---
+
+sb. be in control of sth. = sth. be in the control of sb.
+
+take control of sth. 控制 sth.
+
+be under control 在掌控之中
+
+be beyond control 在掌控之外
+
+---
+
+recognize v. 承认；认可
+
++ recognize / consider / treat / think of / look on / regard sb. as sth. 把 sth. shisth.
++ 
