@@ -3,7 +3,7 @@ apply vi. 申请
 + apply for a job/position 申请一个工作
 + apply to do sth. 申请 do sth.
 
--> applicant n. 申请人
+-> appli==cant== n. 申请人
 
 apply vt. 应用
 
@@ -11,7 +11,7 @@ apply vt. 应用
 + *e.g. We apply Chinese medicine to treating COVID-19 (novel adj.新型的）*
 + apply oneself to do sth. 集中注意力 do sth.
 
--> application n. 应用
+-> appli==cation== n. 应用
 
 ---
 
@@ -47,7 +47,7 @@ arrange v. 安排
 
 + arrange <mark style="background: #39C5BBA6;">for</mark> sb. to do sth. 安排 sb. do sth.
 
--> arrangement n. 安排
+-> arrange==ment== n. 安排
 
 + make arrangements for sth. 安排 sth.
 + *e.g. The 2 countries come to an arrangement (= reach an agreement) over the peace and development*
@@ -56,4 +56,30 @@ arrange v. 安排
 
 extreme adj. 极其的
 
-->
+-> extremely adv. 极其地
+
+---
+
+widen/broaden our horizon 拓宽我们的视野
+
+border n. 国界
+
+---
+
+flat adj. 平坦的
+
++ a flat tire/tyre 一个没气的轮胎
+
+flat n. 公寓 （\== department)
+
+---
+
+influence n. 影响
+
+-> influen==tial== adj. 有影响的
+
+affect v. 影响；感激，喜欢
+
+-> affection n. 影响
+
+effect n. 影响
