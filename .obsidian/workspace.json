@@ -35,6 +35,16 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "0880aca7c1f46ab6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ]
       },
@@ -89,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "机会",
+                "query": "tag:#flashcard/weekly-100/W01",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -110,7 +120,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96d192452be49b2c",
+  "active": "de6041147ac3ba1b",
   "lastOpenFiles": [
     "Eng/weekly-100/Week 01.md",
     "Eng/预/U0/Words.md",

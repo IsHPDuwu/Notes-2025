@@ -1,6 +1,6 @@
 #flashcard/weekly-100/W01
 
-charge :: v. 收费；充电 | n. 要价
+charge :: v. 收费；充电 || n. 要价
 
 advantageous :: adj. 有利的；有好处的
 
@@ -62,4 +62,82 @@ purposefully :: adv. 故意地
 
 occasion :: n. 场合
 
-superior :: adj. 
+superior :: adj. 优于
+
+inferior :: adj. 劣于
+
+feature :: n. 特征
+
+restore :: v. 恢复；修复
+
+boost :: v. 增强
+
+crisis :: n. 危机
+
+lack :: n. 缺失
+
+inspiration :: n. 灵感
+
+profit :: n. 利益
+
+considerable :: adj. 大量的
+
+penalty :: n. 惩罚
+
+ultimate :: adj. 最终的
+
+establish :: v. 建立
+
+disorder :: n. 障碍
+
+estimate :: v. 预估；预计
+
+promising :: adj. 有前途的
+
+spark :: v. 点燃；激发
+
+due :: adj. 到期的
+
+response :: n. 反应
+
+recognise :: v. 认出；认识到
+
+citizen :: n. 公民
+
+limit :: v. 限制 || n. 界限
+
+store :: v. 存储
+
+afterward :: adv. 然后
+
+torch :: n. 火炬
+
+target :: n. 目标
+
+stylish :: adj. 时髦的
+
+brilliant :: adj. 聪颖的
+
+signature :: n. 签字
+
+salary :: n. 薪水
+
+demand :: v. 要求
+
+efficient :: adj. 高效的
+
+orientation :: n. 训练
+
+election :: n. 竞选
+
+escape :: v. 逃跑
+
+announce :: v. 宣布
+
+plain :: n. 平原 || v. 平坦的
+
+struggle :: v. 奋斗；挣扎 || n. 奋斗；挣扎
+
+determine :: v. 决定
+
+mindset 
