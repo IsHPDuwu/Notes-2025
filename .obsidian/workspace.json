@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/U0/Words.md",
+                "file": "Eng/weekly-100/Week 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Words"
+              "title": "Week 01"
             },
             "group": "9df28628c6133117"
           },
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/预/U0/Words.md",
+                "file": "Eng/weekly-100/Week 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Words"
+              "title": "Week 01"
             },
             "group": "9df28628c6133117"
           }
@@ -110,8 +110,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,8 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd845d0b8a054d8",
+  "active": "96d192452be49b2c",
   "lastOpenFiles": [
+    "Eng/预/U0/Words.md",
+    "Eng/weekly-100/Week 01.md",
+    "Eng/weekly-100",
     "a.txt",
     "Eng/预/U0/Words-fc.md",
     "25/Temp/T-2025-05-25.md",
@@ -252,7 +254,6 @@
     "25/HIS/世界古代史基本点.md",
     "Eng/预/U1/Words.md",
     "Eng/预/U0/Notes.md",
-    "Eng/预/U0/Words.md",
     "25/未命名 1.md",
     "Eng/预/U0/未命名.md",
     "未命名.md",
@@ -280,8 +281,6 @@
     "25/09-01-E5.pdf",
     "Eng/预/U2",
     "Eng/预/U1/未命名",
-    "Eng/预/U1",
-    "Eng/预/U0",
     "HIS/08-02/HIS-08-02-canvas.canvas",
     "attachment/Pasted image 20250505100442.png",
     "attachment/Pasted image 20250505100127.png",
