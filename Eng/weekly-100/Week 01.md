@@ -50,4 +50,16 @@ bias :: n. 歧视
 
 original :: adj. 独特的
 
+abstract :: adj. 抽象的
 
+scheme :: n. 设计方案
+
+deliverately :: adv. 故意地
+
+intentionally :: adv. 故意地
+
+purposefully :: adv. 故意地
+
+occasion :: n. 场合
+
+superior :: adj. 
