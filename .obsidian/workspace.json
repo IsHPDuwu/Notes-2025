@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcard/weekly-100/W01",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
