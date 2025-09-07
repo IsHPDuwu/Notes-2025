@@ -1,201 +1,201 @@
-#fcs/weekly-100/W01
+#fcs/weekly-100/W01/raw
 
 charge :: v. 收费；充电 || n. 要价 <!--SR:!2025-09-10,3,250-->
 
-advantageous :: adj. 有利的；有好处的
+advantageous :: adj. 有利的；有好处的 <!--SR:!2025-09-08,1,230-->
 
-acknowledge :: v. 承认；感谢；普遍认为
+acknowledge :: v. 承认；感谢；普遍认为 <!--SR:!2025-09-08,1,230-->
 
-sole :: adj. 唯一的
+sole :: adj. 唯一的 <!--SR:!2025-09-08,1,230-->
 
-essence :: n. 本质
+essence :: n. 本质 <!--SR:!2025-09-10,3,250-->
 
-potential :: adj. 有潜力的
+potential :: adj. 有潜力的 <!--SR:!2025-09-08,1,230-->
 
-influential :: adj. 有影响力的
+influential :: adj. 有影响力的 <!--SR:!2025-09-10,3,250-->
 
-initial :: adj. 起始的
+initial :: adj. 起始的 <!--SR:!2025-09-10,3,250-->
 
-partial :: adj. 部分的
+partial :: adj. 部分的 <!--SR:!2025-09-10,3,250-->
 
-residential :: adj. 居民的
+residential :: adj. 居民的 <!--SR:!2025-09-08,1,230-->
 
-impartial :: adj. 公正的
+impartial :: adj. 公正的 <!--SR:!2025-09-10,3,250-->
 
-confidential :: adj. 秘密的
+confidential :: adj. 秘密的 <!--SR:!2025-09-10,3,250-->
 
-celestial :: adj. 天空的
+celestial :: adj. 天空的 <!--SR:!2025-09-10,3,250-->
 
-spatial :: adj. 空间的
+spatial :: adj. 空间的 <!--SR:!2025-09-10,3,250-->
 
-controvert :: n. 争议
+controvert :: n. 争议 <!--SR:!2025-09-08,1,230-->
 
-companion :: n. 伙伴
+companion :: n. 伙伴 <!--SR:!2025-09-10,3,250-->
 
 enterprise :: n. 企业 <!--SR:!2025-09-10,3,250-->
 
-sneak :: v. 溜走
+sneak :: v. 溜走 <!--SR:!2025-09-10,3,250-->
 
-glance :: n. 眼神
+glance :: n. 眼神 <!--SR:!2025-09-10,3,250-->
 
-stock :: n. 股票
+stock :: n. 股票 <!--SR:!2025-09-08,1,230-->
 
-deliver :: v. 发表
+deliver :: v. 发表 <!--SR:!2025-09-10,3,250-->
 
 thermometer :: n. 温度计 <!--SR:!2025-09-10,3,250-->
 
-discrimination :: n. 歧视
+discrimination :: n. 歧视 <!--SR:!2025-09-08,1,230-->
 
-bias :: n. 歧视
+bias :: n. 歧视 <!--SR:!2025-09-10,3,250-->
 
-original :: adj. 独特的
+original :: adj. 独特的 <!--SR:!2025-09-10,3,250-->
 
 abstract :: adj. 抽象的 <!--SR:!2025-09-08,1,230-->
 
-scheme :: n. 设计方案
+scheme :: n. 设计方案 <!--SR:!2025-09-08,1,230-->
 
-deliverately :: adv. 故意地
+deliverately :: adv. 故意地 <!--SR:!2025-09-10,3,250-->
 
-intentionally :: adv. 故意地
+intentionally :: adv. 故意地 <!--SR:!2025-09-08,1,230-->
 
-purposefully :: adv. 故意地
+purposefully :: adv. 故意地 <!--SR:!2025-09-10,3,250-->
 
-occasion :: n. 场合
+occasion :: n. 场合 <!--SR:!2025-09-10,3,250-->
 
-superior :: adj. 优于
+superior :: adj. 优于 <!--SR:!2025-09-10,3,250-->
 
-inferior :: adj. 劣于
+inferior :: adj. 劣于 <!--SR:!2025-09-10,3,250-->
 
-feature :: n. 特征
+feature :: n. 特征 <!--SR:!2025-09-10,3,250-->
 
-restore :: v. 恢复；修复
+restore :: v. 恢复；修复 <!--SR:!2025-09-10,3,250-->
 
-boost :: v. 增强
+boost :: v. 增强 <!--SR:!2025-09-10,3,250-->
 
-crisis :: n. 危机
+crisis :: n. 危机 <!--SR:!2025-09-08,1,230-->
 
-lack :: n. 缺失
+lack :: n. 缺失 <!--SR:!2025-09-08,1,230-->
 
 inspiration :: n. 灵感 <!--SR:!2025-09-10,3,250-->
 
-profit :: n. 利益
+profit :: n. 利益 <!--SR:!2025-09-10,3,250-->
 
-considerable :: adj. 大量的
+considerable :: adj. 大量的 <!--SR:!2025-09-10,3,250-->
 
-penalty :: n. 惩罚
+penalty :: n. 惩罚 <!--SR:!2025-09-08,1,230-->
 
 ultimate :: adj. 最终的 <!--SR:!2025-09-10,3,250-->
 
-establish :: v. 建立
+establish :: v. 建立 <!--SR:!2025-09-10,3,250-->
 
-disorder :: n. 障碍
+disorder :: n. 障碍 <!--SR:!2025-09-10,3,250-->
 
 estimate :: v. 预估；预计 <!--SR:!2025-09-08,1,230-->
 
-promising :: adj. 有前途的
+promising :: adj. 有前途的 <!--SR:!2025-09-10,3,250-->
 
-spark :: v. 点燃；激发
+spark :: v. 点燃；激发 <!--SR:!2025-09-08,1,230-->
 
-due :: adj. 到期的
+due :: adj. 到期的 <!--SR:!2025-09-10,3,250-->
 
-response :: n. 反应
+response :: n. 反应 <!--SR:!2025-09-10,3,250-->
 
-recognise :: v. 认出；认识到
+recognise :: v. 认出；认识到 <!--SR:!2025-09-08,1,230-->
 
-citizen :: n. 公民
+citizen :: n. 公民 <!--SR:!2025-09-10,3,250-->
 
-limit :: v. 限制 || n. 界限
+limit :: v. 限制 || n. 界限 <!--SR:!2025-09-10,3,250-->
 
 store :: v. 存储 <!--SR:!2025-09-10,3,250-->
 
-afterward :: adv. 然后
+afterward :: adv. 然后 <!--SR:!2025-09-10,3,250-->
 
-torch :: n. 火炬
+torch :: n. 火炬 <!--SR:!2025-09-10,3,250-->
 
-target :: n. 目标
+target :: n. 目标 <!--SR:!2025-09-10,3,250-->
 
-stylish :: adj. 时髦的
+stylish :: adj. 时髦的 <!--SR:!2025-09-10,3,250-->
 
-brilliant :: adj. 聪颖的
+brilliant :: adj. 聪颖的 <!--SR:!2025-09-10,3,250-->
 
-signature :: n. 签字
+signature :: n. 签字 <!--SR:!2025-09-10,3,250-->
 
-salary :: n. 薪水
+salary :: n. 薪水 <!--SR:!2025-09-10,3,250-->
 
-demand :: v. 要求
+demand :: v. 要求 <!--SR:!2025-09-08,1,230-->
 
-efficient :: adj. 高效的
+efficient :: adj. 高效的 <!--SR:!2025-09-08,1,230-->
 
 orientation :: n. 训练 <!--SR:!2025-09-10,3,250-->
 
 election :: n. 竞选 <!--SR:!2025-09-10,3,250-->
 
-escape :: v. 逃跑
+escape :: v. 逃跑 <!--SR:!2025-09-10,3,250-->
 
-announce :: v. 宣布
+announce :: v. 宣布 <!--SR:!2025-09-08,1,230-->
 
-plain :: n. 平原 || v. 平坦的
+plain :: n. 平原 || v. 平坦的 <!--SR:!2025-09-10,3,250-->
 
-struggle :: v. 奋斗；挣扎 || n. 奋斗；挣扎
+struggle :: v. 奋斗；挣扎 || n. 奋斗；挣扎 <!--SR:!2025-09-08,1,230-->
 
-determine :: v. 决定
+determine :: v. 决定 <!--SR:!2025-09-08,1,230-->
 
-mindset :: n. 思维倾向
+mindset :: n. 思维倾向 <!--SR:!2025-09-08,1,230-->
 
-battle :: v. 竞争
+battle :: v. 竞争 <!--SR:!2025-09-10,3,250-->
 
-comment :: v. 评论
+comment :: v. 评论 <!--SR:!2025-09-10,3,250-->
 
 opportunity :: n. 机会 <!--SR:!2025-09-08,1,230-->
 
-handle :: v. 解决，处理
+handle :: v. 解决，处理 <!--SR:!2025-09-10,3,250-->
 
 academic :: adj. 学术的 <!--SR:!2025-09-08,1,230-->
 
-application :: n. 应用
+application :: n. 应用 <!--SR:!2025-09-10,3,250-->
 
-attitude :: n. 态度
+attitude :: n. 态度 <!--SR:!2025-09-08,1,230-->
 
 aptitude :: n. 天赋 <!--SR:!2025-09-08,1,230-->
 
-gratitude :: n. 尊重
+gratitude :: n. 尊重 <!--SR:!2025-09-10,3,250-->
 
 exactly :: adv. 确切地 <!--SR:!2025-09-08,1,230-->
 
-base :: n. 基地
+base :: n. 基地 <!--SR:!2025-09-10,3,250-->
 
 sharp :: adj. 陡峭的；锋利的 <!--SR:!2025-09-10,3,250-->
 
-variety :: n. 种类
+variety :: n. 种类 <!--SR:!2025-09-08,1,230-->
 
-generous :: adj. 慷慨的
+generous :: adj. 慷慨的 <!--SR:!2025-09-08,1,230-->
 
-exist :: v. 存在
+exist :: v. 存在 <!--SR:!2025-09-08,1,230-->
 
-standard :: n. 标准
+standard :: n. 标准 <!--SR:!2025-09-10,3,250-->
 
-considerate :: adj. 体贴的
+considerate :: adj. 体贴的 <!--SR:!2025-09-08,1,230-->
 
-valley :: n. 山谷
+valley :: n. 山谷 <!--SR:!2025-09-08,1,230-->
 
-religion :: n. 宗教
+religion :: n. 宗教 <!--SR:!2025-09-08,1,230-->
 
-security :: n. 安全
+security :: n. 安全 <!--SR:!2025-09-10,3,250-->
 
-affordable :: adj. 便宜的
+affordable :: adj. 便宜的 <!--SR:!2025-09-10,3,250-->
 
 altitude :: n. 高度 <!--SR:!2025-09-08,1,230-->
 
-cure :: v. 治疗 || n. 治疗
+cure :: v. 治疗 || n. 治疗 <!--SR:!2025-09-08,1,230-->
 
 entire :: adj. 全部的 <!--SR:!2025-09-10,3,250-->
 
 weapon :: n. 武器 <!--SR:!2025-09-08,1,230-->
 
-purpose :: n. 意图，打算
+purpose :: n. 意图，打算 <!--SR:!2025-09-10,3,250-->
 
-architect :: n. 建筑师
+architect :: n. 建筑师 <!--SR:!2025-09-10,3,250-->
 
-introverted :: adj. 内向的
+introverted :: adj. 内向的 <!--SR:!2025-09-10,3,250-->
 
-frequency :: n. 频率
+frequency :: n. 频率 <!--SR:!2025-09-10,3,250-->
