@@ -1,10 +1,8 @@
 file_path = input("File path: ")
 s = input("Finding str: ")
 
-with open(file_path):
-	for line in file_path.read_lines():
+with open(file_path, encoding = 'utf-8') as f:
+	for line in f.readlines():
 		if line.count(s):
-			print(line)
-		elif line == '\n':
-			print(line)
+			print(line[:line.find('<!--')], end='\n\n')
 
