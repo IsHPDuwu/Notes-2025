@@ -96,8 +96,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,8 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96d192452be49b2c",
+  "active": "c80e6f268a485c93",
   "lastOpenFiles": [
+    "find_unaccepted_words.py",
+    "find_unaccepted_words",
     "25/HIS/世界古代史基本点.md",
     "25/HIS/世界近代史基本点.md",
     "Eng/Words-fc-1.md",
@@ -259,14 +260,12 @@
     "25/HIS/07-01/HIS-07-01-U1 史前时期+中国境内早期人类与文明的起源-早期.md",
     "25/HIS/09-01/HIS-09-01-重点问题默写.pdf",
     "25/HIS/09-01/HIS-09-01-重点问题默写.md",
-    "25/HIS/08-01/HIS-08-01-重点问题默写.md",
     "25/HIS/08-01/HIS-08-01-U8 近代经济、社会生活与教育文化事业的发展.pdf",
     "25/HIS/09-02/HIS-09-02-重点问题默写.txt",
     "25/HIS/09-02/HIS-09-02-重点问题默写.pdf",
     "25/HIS/08-02/HIS-08-02-canvas.canvas",
     "25/09-01-E5.pdf",
     "Eng/预/U2",
-    "Eng/预/U1/未命名",
     "HIS/08-02/HIS-08-02-canvas.canvas",
     "attachment/Pasted image 20250505100442.png",
     "attachment/Pasted image 20250505100127.png",
