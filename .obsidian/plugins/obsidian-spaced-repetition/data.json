@@ -1,8 +1,6 @@
 {
   "settings": {
     "flashcardTags": [
-      "#flashcard",
-      "#fc",
       "#fcs"
     ],
     "convertFoldersToDecks": false,
