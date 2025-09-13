@@ -1,63 +1,27 @@
 {
   "abbreviations": {
-    "zz": {
-      "value": "<政>",
-      "isEnabled": true,
-      "position": 11,
-      "isCaseSensitive": true
-    },
-    "jj": {
-      "value": "<经>",
-      "isEnabled": true,
-      "position": 10
-    },
-    "ww": {
-      "value": "<文>",
-      "isEnabled": true,
-      "position": 9
-    },
-    "mm": {
-      "value": "<民>",
-      "isEnabled": true,
-      "position": 7
-    },
-    "aa": {
-      "value": "<军>",
-      "isEnabled": true,
-      "position": 8
-    },
-    "ss": {
-      "value": "<思>",
-      "isEnabled": true,
-      "position": 5
-    },
-    "<": {
-      "value": "<>",
-      "isEnabled": true,
-      "position": 6
-    },
-    "note.": {
-      "value": "> [!NOTE]",
-      "isEnabled": true,
-      "position": 4
-    },
     "warn.": {
       "value": "> [!WARNING]",
       "isEnabled": true,
-      "position": 3
+      "position": 4
     },
     "err.": {
       "value": "> [!ERROR]",
       "isEnabled": true,
-      "position": 2
+      "position": 3
     },
     "iss": {
       "value": ":::",
       "isEnabled": true,
-      "position": 1
+      "position": 2
     },
     "is": {
       "value": "::",
+      "isEnabled": true,
+      "position": 1
+    },
+    "info.": {
+      "value": "> [!INFO]",
       "isEnabled": true,
       "position": 0
     }

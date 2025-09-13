@@ -208,7 +208,7 @@
         {
           "color": "#39c5bb",
           "id": "miku",
-          "keybind": "",
+          "keybind": "M",
           "italic": false,
           "bold": false,
           "cap_mode": {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eng/weekly-100/Week 01.md",
+                "file": "Eng/预/U0/Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 01"
+              "title": "Words"
             }
           }
         ]
@@ -178,6 +178,32 @@
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
+          },
+          {
+            "id": "82d006960bfad55e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Eng/预/U0/Words.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "6c54e8f4a108a3b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -206,8 +232,10 @@
   },
   "active": "96d192452be49b2c",
   "lastOpenFiles": [
-    "Eng/weekly-100/未命名.base",
+    "Eng/预/U0/Notes.md",
+    "Eng/预/U0/未命名.md",
     "Eng/weekly-100/Week 01.md",
+    "Eng/weekly-100/未命名.base",
     "Eng/weekly-100/Week 01 0x01.md",
     "find_unaccepted_words.py",
     "find_unaccepted_words",
@@ -222,9 +250,7 @@
     "25/POL/sth_is_sth/data.md",
     "25/POL/sth_is_sth/09-01.md",
     "Eng/预/U1/Words.md",
-    "Eng/预/U0/Notes.md",
     "25/未命名 1.md",
-    "Eng/预/U0/未命名.md",
     "未命名.md",
     "Temp.md",
     "25/Eng-单词.md",
