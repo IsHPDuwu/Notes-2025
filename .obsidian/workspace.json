@@ -6,7 +6,7 @@
       {
         "id": "a63429c687965c07",
         "type": "tabs",
-        "dimension": 67.81842818428184,
+        "dimension": 49.390243902439025,
         "children": [
           {
             "id": "96d192452be49b2c",
@@ -42,7 +42,7 @@
       {
         "id": "3d27d617b5e9979f",
         "type": "tabs",
-        "dimension": 32.18157181571816,
+        "dimension": 50.609756097560975,
         "children": [
           {
             "id": "360e2d94a38f1f5d",
@@ -267,7 +267,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcc2a50d6293f98b",
+  "active": "360e2d94a38f1f5d",
   "lastOpenFiles": [
     "Eng/预/U0/Words.md",
     "这食诗？.md",
